@@ -1,23 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-
-<html>
-<head>
-	
-	<meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 7.0.0.3 (Windows)"/>
-	<meta name="created" content="2020-08-29T23:53:36.073000000"/>
-	<meta name="changed" content="2020-08-30T01:16:24.394000000"/>
-	
-	<style type="text/css">
-		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; font-size:x-small }
-		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
-		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
-		comment { display:none;  } 
-	</style>
-	
-</head>
-
 <body>
 <table cellspacing="0" border="0">
 	<colgroup width="273"></colgroup>
@@ -1051,4 +1031,3 @@
 <!-- ************************************************************************** -->
 </body>
 
-</html>
