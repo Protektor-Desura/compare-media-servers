@@ -316,6 +316,8 @@ Last Update August, 2020
 		<td align="left">No</td>
 	</tr>
 	</table>
+	<br>
+	<br>
 	<table cellspacing="0" border="0">
 	<colgroup width="273"></colgroup>
 	<colgroup width="128"></colgroup>
@@ -371,13 +373,15 @@ Last Update August, 2020
 		<td align="left">No</td>
 		<td align="left">No</td>
 	</tr>
-	<tr>
-		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
+	</table>
+	<br>
+	<br>
+	<table cellspacing="0" border="0">
+	<colgroup width="273"></colgroup>
+	<colgroup width="128"></colgroup>
+	<colgroup width="101"></colgroup>
+	<colgroup width="134"></colgroup>
+	<colgroup width="138"></colgroup>
 	<tr>
 		<td height="17" align="left"><b>Plugins</b></td>
 		<td align="left"><b>Jellyfin</b></td>
@@ -603,6 +607,8 @@ Last Update August, 2020
 		<td align="left">No</td>
 	</tr>
 	</table>
+	<br>
+	<br>
 	<table cellspacing="0" border="0">
 	<colgroup width="273"></colgroup>
 	<colgroup width="128"></colgroup>
@@ -694,6 +700,8 @@ Last Update August, 2020
 		<td align="left">Yes</td>
 	</tr>
 	</table>
+	<br>
+	<br>
 	<table cellspacing="0" border="0">
 	<colgroup width="273"></colgroup>
 	<colgroup width="128"></colgroup>
@@ -820,6 +828,8 @@ Last Update August, 2020
 		<td align="left">Yes</td>
 	</tr>
 	</table>
+	<br>
+	<br>
 	<table cellspacing="0" border="0">
 	<colgroup width="273"></colgroup>
 	<colgroup width="128"></colgroup>
@@ -995,6 +1005,8 @@ Last Update August, 2020
 		<td align="left">$5 or Server License</td>
 	</tr>
 	</table>
+	<br>
+	<br>
 	<table cellspacing="0" border="0">
 	<colgroup width="273"></colgroup>
 	<colgroup width="128"></colgroup>
