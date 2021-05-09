@@ -315,13 +315,13 @@ Last Update August, 2020
 		<td align="left">No</td>
 		<td align="left">No</td>
 	</tr>
-	<tr>
-		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
+	</table>
+	<table cellspacing="0" border="0">
+	<colgroup width="273"></colgroup>
+	<colgroup width="128"></colgroup>
+	<colgroup width="101"></colgroup>
+	<colgroup width="134"></colgroup>
+	<colgroup width="138"></colgroup>
 	<tr>
 		<td height="17" align="left"><b>Protocols</b></td>
 		<td align="left"><b>Jellyfin</b></td>
@@ -602,13 +602,13 @@ Last Update August, 2020
 		<td align="left">No</td>
 		<td align="left">No</td>
 	</tr>
-	<tr>
-		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
+	</table>
+	<table cellspacing="0" border="0">
+	<colgroup width="273"></colgroup>
+	<colgroup width="128"></colgroup>
+	<colgroup width="101"></colgroup>
+	<colgroup width="134"></colgroup>
+	<colgroup width="138"></colgroup>
 	<tr>
 		<td height="17" align="left"><b>Tuners</b></td>
 		<td align="left"><b>Jellyfin</b></td>
@@ -693,13 +693,13 @@ Last Update August, 2020
 		<td align="left">Yes</td>
 		<td align="left">Yes</td>
 	</tr>
-	<tr>
-		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
+	</table>
+	<table cellspacing="0" border="0">
+	<colgroup width="273"></colgroup>
+	<colgroup width="128"></colgroup>
+	<colgroup width="101"></colgroup>
+	<colgroup width="134"></colgroup>
+	<colgroup width="138"></colgroup>
 	<tr>
 		<td height="17" align="left"><b>Server OS</b></td>
 		<td align="left"><b>Jellyfin</b></td>
@@ -819,13 +819,13 @@ Last Update August, 2020
 		<td align="left">Yes</td>
 		<td align="left">Yes</td>
 	</tr>
-	<tr>
-		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
+	</table>
+	<table cellspacing="0" border="0">
+	<colgroup width="273"></colgroup>
+	<colgroup width="128"></colgroup>
+	<colgroup width="101"></colgroup>
+	<colgroup width="134"></colgroup>
+	<colgroup width="138"></colgroup>
 	<tr>
 		<td height="17" align="left"><b>Clients</b></td>
 		<td align="left"><b>Jellyfin</b></td>
@@ -994,13 +994,13 @@ Last Update August, 2020
 		<td align="left">$5 or Server License</td>
 		<td align="left">$5 or Server License</td>
 	</tr>
-	<tr>
-		<td height="17" align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-		<td align="left"><br></td>
-	</tr>
+	</table>
+	<table cellspacing="0" border="0">
+	<colgroup width="273"></colgroup>
+	<colgroup width="128"></colgroup>
+	<colgroup width="101"></colgroup>
+	<colgroup width="134"></colgroup>
+	<colgroup width="138"></colgroup>
 	<tr>
 		<td height="17" align="left"><b>Server License</b></td>
 		<td align="left"><b>Jellyfin</b></td>
@@ -1029,7 +1029,7 @@ Last Update August, 2020
 		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00">$119.99 (15 devices)</td>
 		<td align="left">$119.00 (25 devices)</td>
 	</tr>
-</table>
+	</table>
 <!-- ************************************************************************** -->
 </body>
 
