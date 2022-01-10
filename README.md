@@ -1,7 +1,9 @@
 Updated January, 2022
-
+<br>
 I have included some links to show where some of the information came from, especially on the pricing. The links should show you current pricing.
-
+<br>
+<br>
+<br>
 <table>
 	<tr>
 		<td><p><b>Features</b></p></td>
