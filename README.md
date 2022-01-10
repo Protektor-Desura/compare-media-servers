@@ -913,49 +913,49 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Android</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
+		<td><p>$5 or Server License</td>
+		<td><p>$5 or Server License</td>
 	</tr>
 	<tr>
 		<td><p>AndroidTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
+		<td><p>$5 or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>AppleTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
+		<td><p>$5 or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>FireTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
+		<td><p>$5 or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>GoogleDaydream VR</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>iOS</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
+		<td><p>$5 or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>Kodi</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
@@ -969,15 +969,15 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Linux</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>MacOS</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
 		<td><p>Free</p></td>
 		<td><p>No</p></td>
 	</tr>
@@ -985,12 +985,12 @@ Updated January, 2022
 		<td><p>OculusGo VR</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Roku</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
@@ -1013,14 +1013,14 @@ Updated January, 2022
 		<td><p>SonyPlaystation 3</p></td>
 		<td><p>DLNA</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 		<td><p>DLNA</p></td>
 	</tr>
 	<tr>
 		<td><p>SonyPlaystation 4</p></td>
 		<td><p>WebBrowser</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 		<td><p>WebBrowser</p></td>
 	</tr>
 	<tr>
@@ -1053,8 +1053,8 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Windows</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
@@ -1062,15 +1062,15 @@ Updated January, 2022
 		<td><p>Xbox360</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>XboxOne</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-uwp">Free</a>&amp;<a href="https://www.microsoft.com/en-us/p/videotape-a-modern-vlc-alternative/9nlvh2ll4p1z?cid=storebadge&amp;ocid=badge&amp;rtc=1&amp;activetab=pivot:overviewtab">3RDParty</a></p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
+		<td><p>$5 or Server License</p></td>
 	</tr>
 </table>
 <br>
