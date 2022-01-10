@@ -1075,3 +1075,28 @@ Updated January, 2022
 </table>
 <br>
 <br>
+<table>
+	<tr>
+		<td><p>AudiobookClient</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>BookClients</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-opds"><font face="Liberation Sans"><font size="2" style="font-size: 10pt">OPDS</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>MusicClients</p></td>
+		<td><p><a href="https://github.com/UnicornsOnLSD/finamp">Finamp</a>,<a href="https://github.com/dkanada/gelli">Gelli</a>, <a href="https://github.com/m0ngr31/jellyamp">JellyAmp</a>,<a href="https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle">S2Music Player</a>, <a href="https://github.com/jeffvli/sonixd">Sonixd</a></p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://plexamp.com/"><font face="Liberation Sans"><font size="2" style="font-size: 10pt">Plexamp</a></p></td>
+		<td><p>No</p></td>
+	</tr>
+</table>
+<br>
+<br>
