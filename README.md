@@ -1032,7 +1032,7 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Tizen(Samsung TV)</p></td>
-		<td><p></td><a href="https://github.com/jellyfin/jellyfin-tizen">Free</a>/Not in Store</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-tizen">Free</a>/Not in Store</p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
@@ -1046,7 +1046,7 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>WebOS(LG TV)</p></td>
-		<td><p></td><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Not in Store</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Not in Store</p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
