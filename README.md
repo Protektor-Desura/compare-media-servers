@@ -457,3 +457,231 @@ Updated January, 2022
 </table>
 <br>
 <br>
+<table>
+	<tr>
+		<td><p><b>Plugins</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>AmazonPrime Music</p></td>
+		<td><p>No</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>AmazonPrime Video</p></td>
+		<td><p>No</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>AudioDB</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>BBCiPlayer</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>Deezer</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>Disney+</p></td>
+		<td><p>No</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>Douban</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>Dropbox</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>License</p></td>
+	</tr>
+	<tr>
+		<td><p>Fanart</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>GoogleBooks</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>GoogleDrive</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>License</p></td>
+	</tr>
+	<tr>
+		<td><p>Hulu</p></td>
+		<td><p>No</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>IMVDb</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>JupiterBroadcasting</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>LastFM</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>MusicBrainz</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>Netflix</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>OMDB</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>OpenSubtitles</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>PlutoTV</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>Spotify</p></td>
+		<td><p>No</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>StirrTV</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>Tidal</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>License</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>ThePosterDB</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>TheTVDB</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>TMDb</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>Trackt</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>TuneIn</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>YouTubeMetadata</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>VGMdb</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>Xumo</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+</table>
+<br>
+<br>
