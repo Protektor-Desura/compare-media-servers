@@ -48,7 +48,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>BandwidthLimiting</p></td>
+		<td><p>Bandwidth Limiting</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
@@ -69,7 +69,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>ComicBook Support</p></td>
+		<td><p>Comic Book Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -83,35 +83,35 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Favoritesand Tags</p></td>
+		<td><p>Favorites and Tags</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>GameSupport</p></td>
+		<td><p>Game Support</p></td>
 		<td><p>No</p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>HardwareTranscoding</p></td>
+		<td><p>Hardware Transcoding</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>LDAPSupport</p></td>
+		<td><p>LDAP Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>LiveTV/DVR Support</p></td>
+		<td><p>Live TV/DVR Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
@@ -125,7 +125,7 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>MobileMedia Optimizer</p></td>
+		<td><p>Mobile Media Optimizer</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
@@ -139,14 +139,14 @@
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>MovieSupport</p></td>
+		<td><p>Movie Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>MultipleUsers</p></td>
+		<td><p>Multiple Users</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>License</p></td>
@@ -160,63 +160,63 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>MusicVideo Support</p></td>
+		<td><p>Music Video Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>OfflineMedia</p></td>
+		<td><p>Offline Media</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>ParentControls</p></td>
+		<td><p>Parent Controls</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>PartyWatch</p></td>
+		<td><p>Group Watching</p></td>
 		<td><p>Yes/SyncPlay</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes/WatchTogether</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>PerUser Stream Limit</p></td>
+		<td><p>Per User Stream Limit</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>PhotoAlbums</p></td>
+		<td><p>Photo Albums</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>License</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Plug-inSupport</p></td>
+		<td><p>Plug-in Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>PodcastSupport</p></td>
+		<td><p>Podcast Support</p></td>
 		<td><p><a href="https://github.com/akhilrex/podgrab">3rdParty Add-on</a></p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>RadioSupport</p></td>
+		<td><p>Internet Radio Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
@@ -230,63 +230,63 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>RemoteLogin Server</p></td>
+		<td><p>Remote Login Server</p></td>
 		<td><p><b>Never</b></p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>ServerStats</p></td>
+		<td><p>Server Stats</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>SharingLibraries</p></td>
+		<td><p>Sharing Libraries</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>SimultaneousLogin Limits</p></td>
+		<td><p>Simultaneous Login Limits</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>SmartHome/Voice Control</p></td>
-		<td><p>Yes/HomeAssistant</p></td>
+		<td><p>Smart Home/Voice Control</p></td>
+		<td><p>Yes/Home Assistant</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>ThemeSongs and Videos</p></td>
+		<td><p>Theme Songs and Videos</p></td>
 		<td><p><a href="https://github.com/danieladov/jellyfin-plugin-themesongs">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Yes/Songsonly</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>TIDALMusic</p></td>
+		<td><p>TIDAL Music</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>TonemappingCPU</p></td>
+		<td><p>Tonemapping CPU</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>TonemappingGPU</p></td>
+		<td><p>Tonemapping GPU</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
@@ -300,28 +300,28 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>TVEpisode Support</p></td>
+		<td><p>TV Episode Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>TVGuide Data</p></td>
+		<td><p>TV Guide Data</p></td>
 		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a></p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td><p>VirtualReality</p></td>
+		<td><p>Virtual Reality</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>VideoChapters Metadata DL</p></td>
+		<td><p>Video Chapters Metadata DL</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -333,7 +333,7 @@
 <br>
 <table>
 	<tr>
-		<td><p><b>ServerOS</b></p></td>
+		<td><p><b>Server OS</b></p></td>
 		<td><p><b>Jellyfin</b></p></td>
 		<td><p><b>Kodi</b></p></td>
 		<td><p><b>Plex</b></p></td>
@@ -403,7 +403,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>OpenMedia Vault</p></td>
+		<td><p>Open Media Vault</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
@@ -470,19 +470,24 @@
 		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td><p>AmazonPrime Music</p></td>
+		<td><p>Amazon Prime Music</p></td>
 		<td><p>No</p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>AmazonPrime Video</p></td>
+		<td><p>Amazon Prime Video</p></td>
 		<td><p>No</p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
+		<td><p>Anime Metadata</p></td>
+		<td><p>Yes (Anime,AniBD,AniList,AniSearch,Kitsu,Shoko)</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
 	<tr>
 		<td><p>AudioDB</p></td>
 		<td><p>Yes</p></td>
@@ -491,7 +496,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>BBCiPlayer</p></td>
+		<td><p>BBC iPlayer</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
@@ -499,7 +504,7 @@
 	</tr>
 	<tr>
 		<td><p>Deezer</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/RandomNinjaAtk/docker-amd">3rd Party Add-on</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -603,8 +608,8 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>PlutoTV</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p>Pluto TV</p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -617,28 +622,28 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>StirrTV</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p>Stirr TV</p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Tidal</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>ThePosterDB</p></td>
+		<td><p>The PosterDB</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>TheTVDB</p></td>
+		<td><p>The TVDB</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
@@ -674,14 +679,14 @@
 	</tr>
 	<tr>
 		<td><p>VGMdb</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://github.com/nielsvanvelzen/jellyfin-plugin-vgmdb">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Xumo</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
