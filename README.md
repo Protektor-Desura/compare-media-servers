@@ -1077,21 +1077,28 @@ Updated January, 2022
 <br>
 <table>
 	<tr>
-		<td><p>AudiobookClient</p></td>
+		<td><p><b>Dedicated Media Clients</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>Audiobook Client</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>BookClients</p></td>
+		<td><p>Book Clients</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-opds"><font face="Liberation Sans"><font size="2" style="font-size: 10pt">OPDS</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>MusicClients</p></td>
+		<td><p>Music Clients</p></td>
 		<td><p><a href="https://github.com/UnicornsOnLSD/finamp">Finamp</a>,<a href="https://github.com/dkanada/gelli">Gelli</a>, <a href="https://github.com/m0ngr31/jellyamp">JellyAmp</a>,<a href="https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle">S2Music Player</a>, <a href="https://github.com/jeffvli/sonixd">Sonixd</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://plexamp.com/"><font face="Liberation Sans"><font size="2" style="font-size: 10pt">Plexamp</a></p></td>
