@@ -93,7 +93,7 @@
 		<td><p>Game Support</p></td>
 		<td><p>No</p></td>
 		<td><p>3rdParty Plugin</p></td>
-		<td><p>No</p></td>
+		<td><p>License & Monthly Fee</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
