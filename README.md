@@ -380,7 +380,7 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Subsonic</p></td>
-		<td><p><a href="https://github.com/nvllsvm/jellysub"></td>3rdParty Add-on</span></span></span></span></a></p></td>
+		<td><p><a href="https://github.com/nvllsvm/jellysub"></td>3rdParty Add-on</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -848,29 +848,29 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Android</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>AndroidTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>AppleTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>FireTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
@@ -883,14 +883,14 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>iOS</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
 	<tr>
 		<td><p>Kodi</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
@@ -904,15 +904,15 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Linux</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>MacOS</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>Free</p></td>
 		<td><p>No</p></td>
 	</tr>
@@ -925,7 +925,7 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Roku</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
@@ -967,29 +967,29 @@ Updated January, 2022
 	</tr>
 	<tr>
 		<td><p>Tizen(Samsung TV)</p></td>
-		<td><p></td><a href="https://github.com/jellyfin/jellyfin-tizen">Free</a>/Noton Store</span></span></span></span></p></td>
+		<td><p></td><a href="https://github.com/jellyfin/jellyfin-tizen">Free</a>/Not in Store</p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
 	</tr>
 	<tr>
 		<td><p>WebBrowser</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
 	</tr>
 	<tr>
 		<td><p>WebOS(LG TV)</p></td>
-		<td><p></td><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Noton Store</span></span></span></span></p></td>
+		<td><p></td><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Not in Store</p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
 	</tr>
 	<tr>
 		<td><p>Windows</p></td>
-		<td><p><a href="https://jellyfin.org/clients/"></td>Free</span></span></span></span></a></p></td>
-		<td><p><a href="https://kodi.tv/download/"></td>Free</span></span></span></span></a></p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td>Free</a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td>Free</a></p></td>
 		<td><p>$5or Server License</p></td>
 		<td><p>$5or Server License</p></td>
 	</tr>
