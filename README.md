@@ -1,6 +1,6 @@
-Updated January, 2022
+<p>Updated January, 2022</p>
 <br>
-I have included some links to show where some of the information came from, especially on the pricing. The links should show you current pricing.
+<p>I have included some links to show where some of the information came from, especially on the pricing. The links should show you current pricing.</p>
 <br>
 <br>
 <br>
