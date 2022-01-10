@@ -1,1047 +1,1071 @@
-Last Update August, 2020
+Updated January, 2022
 
 <body>
-<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
+<table>
 	<tr>
-		<td height="17" align="left"><b>Features</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
+		<td><p><b>Features</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">License</td>
-		<td align="left">GPL v3</td>
-		<td align="left">GPL v2</td>
-		<td align="left">Full Commercial</td>
-		<td align="left">Full Commercial</td>
+		<td><p>License</p></td>
+		<td><p>GPL v3</p></td>
+		<td><p>GPL v2</p></td>
+		<td<p>Full Commercial</p></td>
+		<td><p>Full Commercial</p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Client/Server</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>Client/Server</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">4K Support</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>4K Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">AV1 Support</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
+		<td><p>AV1 Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Audiobook Support</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>Audiobook Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Bandwidth Limiting</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>BandwidthLimiting</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Camera Upload</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>CameraUpload</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Collections</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>Collections</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Comic Book Support</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
+		<td><p>ComicBook Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">E-Book Support</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
+		<td><p>E-BookSupport</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Favorites and Tags</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>Favoritesand Tags</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Game Support</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
+		<td><p>GameSupport</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Hardware Transcoding</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>HardwareTranscoding</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">LDAP Support</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
+		<td><p>LDAPSupport</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Live TV/DVR Support</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>LiveTV/DVR Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Lyrics</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
+		<td><p>Lyrics</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Mobile Media Optimizer</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">No</td>
+		<td><p>MobileMedia Optimizer</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Mobile Sync</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>MobileSync</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Movie Support</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>MovieSupport</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Multiple Users</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">License</td>
-		<td align="left">Yes</td>
+		<td><p>MultipleUsers</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#000000">License</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Music Support</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>MusicSupport</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Music Video Support</td>
-		<td align="left">Yes</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>MusicVideo Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Offline Media</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>OfflineMedia</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Parent Controls</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">Yes</td>
+		<td><p>ParentControls</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Party Watch</td>
-		<td align="left">Yes/SyncPlay</td>
-		<td align="left">No</td>
-		<td align="left">Yes/Watch Together</td>
-		<td align="left">No</td>
+		<td><p>PartyWatch</p></td>
+		<td><p><font color="#000000"><font color="#00a933">Yes</font>/SyncPlay</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#000000"><font color="#00a933">Yes</font>/WatchTogether</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Per User Stream Limit</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>PerUser Stream Limit</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Photo Albums</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">License</td>
-		<td align="left">Yes</td>
+		<td><p>PhotoAlbums</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p>License</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Plug-in Support</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
+		<td><p>Plug-inSupport</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Podcast Support</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>PodcastSupport</p></td>
+		<td><p><a href="https://github.com/akhilrex/podgrab"><font color="#000000">3rdParty Add-on</font></a></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Radio Support</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
+		<td><p>RadioSupport</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Recommend &amp; Discover</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>Recommend&amp; Discover</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Remote Login Server</td>
-		<td align="left"><b>Never</b></td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>RemoteLogin Server</p></td>
+		<td><p><font color="#ff0000"><b>Never</b></font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Server Stats</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">Yes</td>
+		<td><p>ServerStats</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Sharing Libraries</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
+		<td><p>SharingLibraries</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Simultaneous Login Limits</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
+		<td><p>SimultaneousLogin Limits</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Smart Home/Voice Control</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>SmartHome/Voice Control</p></td>
+		<td><p><font color="#000000"><font color="#00a933">Yes</font>/HomeAssistant</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Theme Songs and Videos</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">User provided</td>
-		<td align="left">Yes/Songs only</td>
-		<td align="left">License</td>
+		<td><p>ThemeSongs and Videos</p></td>
+		<td><p><a href="https://github.com/danieladov/jellyfin-plugin-themesongs">3rdParty Plugin</a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes/Songsonly</font></p></td>
+		<td><p>License</p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">TIDAL Music</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
+		<td><p>TIDALMusic</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Trailers &amp; Extras</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>TonemappingCPU</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">TV Episode Support</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
+		<td><p>TonemappingGPU</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">TV Guide Data</td>
-		<td align="left">Yes/3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">License</td>
+		<td><p>Trailers&amp; Extras</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Virtual Reality</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">No</td>
+		<td><p>TVEpisode Support</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">Video Chapters Metadata</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
+		<td><p>TVGuide Data</p></td>
+		<td><p><font color="#00a933">Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a></font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p>License</p></td>
 	</tr>
-	</table>
-	<br>
-	<br>
-	<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
 	<tr>
-		<td height="17" align="left"><b>Protocols</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
+		<td><p>VirtualReality</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
 	<tr>
-		<td height="17" align="left">AirPlay</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
+		<td><p>VideoChapters Metadata DL</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
 	</tr>
-	<tr>
-		<td height="17" align="left">Chromecast</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">OPDS</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Sonos</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Spotify Connect</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Subsonic</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	</table>
-	<br>
-	<br>
-	<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
-	<tr>
-		<td height="17" align="left"><b>Plugins</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Amazon Prime Music</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Amazon Prime Video</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">AudioDB</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">BBC iPlayer</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Deezer</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Disney+</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Douban</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Dropbox</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Fanart</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Google Books</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Google Drive</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hulu</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">IMVDb</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Jupiter Broadcasting</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">LastFM</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">MusicBrainz</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Netflix</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">OMDB</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Open Subtitles</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Pluto TV</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Spotify</td>
-		<td align="left">No</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Stirr TV</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Tidal</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">License</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">The PosterDB</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">The TVDB</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">TMDb</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Trackt</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">TuneIn</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">YouTube Metadata</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">VGMdb</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Xumo</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">3rd Party Plugin</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	</table>
-	<br>
-	<br>
-	<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
-	<tr>
-		<td height="17" align="left"><b>Tuners</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Antennas Direct ClearStream TV&trade; Wireless</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">AVerMedia AVerTV Volar Hybrid Q</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">DVBLogic TVButler 100TC</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge Digital TV for Xbox One</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge Freeview HD TV for Xbox One</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge WinTV-dualHD</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge WinTV-quadHD</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge WinTV-HVR-955Q</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge WinTV-HVR-22XX</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Hauppauge WinTV-soloHD</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">SiliconDust HDHomeRun</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	</table>
-	<br>
-	<br>
-	<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
-	<tr>
-		<td height="17" align="left"><b>Server OS</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Asusor</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Docker</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">FreeBSD</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">FreeNAS</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Linux</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Mac OS</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Netgear ReadyNAS</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Nvidia Shield</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Open Media Vault</td>
-		<td align="left">Yes</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">QNAP</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Rasberry Pi</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Synology</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">TerraMaster</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Thecus</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">WD My Cloud &amp; My Passport</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Windows</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-		<td align="left">Yes</td>
-	</tr>
-	</table>
-	<br>
-	<br>
-	<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
-	<tr>
-		<td height="17" align="left"><b>Clients</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Android</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Android TV</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Apple TV</td>
-		<td align="left">3rd Party</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Fire TV</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Google Daydream VR</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">iOS</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Kodi</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Lenovo Mirage Solo VR</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Linux</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Mac</td>
-		<td align="left">3rd Party</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Oculus Go VR</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Roku</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Samsung Gear VR</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Sonos</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Sony Playstation 3</td>
-		<td align="left">DLNA</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">DLNA</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Sony Playstation 4</td>
-		<td align="left">Web Browser</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">Web Browser</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Tivo</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Tizen (Samsung TV)</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Web Browser</td>
-		<td align="left">Free</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">WebOS (LG TV)</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Windows</td>
-		<td align="left">3rd Party</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Xbox 360</td>
-		<td align="left">No</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">No</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Xbox One</td>
-		<td align="left">Free &amp; 3rd Party</td>
-		<td align="left">No</td>
-		<td align="left">$5 or Server License</td>
-		<td align="left">$5 or Server License</td>
-	</tr>
-	</table>
-	<br>
-	<br>
-	<table cellspacing="0" border="0">
-	<colgroup width="273"></colgroup>
-	<colgroup width="128"></colgroup>
-	<colgroup width="101"></colgroup>
-	<colgroup width="134"></colgroup>
-	<colgroup width="138"></colgroup>
-	<tr>
-		<td height="17" align="left"><b>Server License</b></td>
-		<td align="left"><b>Jellyfin</b></td>
-		<td align="left"><b>Kodi</b></td>
-		<td align="left"><b>Plex</b></td>
-		<td align="left"><b>Emby</b></td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Monthly</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-		<td align="left">$4.99 (15 devices)</td>
-		<td align="left">$4.99 (25 devices)</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Yearly</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-		<td align="left">$39.99 (15 devices)</td>
-		<td align="left">$54.00 (25 devices)</td>
-	</tr>
-	<tr>
-		<td height="17" align="left">Lifetime</td>
-		<td align="left">Free</td>
-		<td align="left">Free</td>
-		<td align="left" sdnum="1033;0;[$$-409]#,##0.00;[RED]-[$$-409]#,##0.00">$119.99 (15 devices)</td>
-		<td align="left">$119.00 (25 devices)</td>
-	</tr>
-	</table>
-<!-- ************************************************************************** -->
-</body>
 
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p><b>Protocols</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>AirPlay</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Chromecast(SSL required)</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>DLNA</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>OPDS</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>SonosAPI/JSON</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>SpotifyConnect</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Subsonic</p></td>
+		<td><p><a href="https://github.com/nvllsvm/jellysub"></td>3rdParty Add-on</span></span></span></span></a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p><b>Plugins</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>AmazonPrime Music</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>AmazonPrime Video</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>AudioDB</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>BBCiPlayer</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Deezer</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Disney+</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Douban</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Dropbox</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+	</tr>
+	<tr>
+		<td><p>Fanart</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>GoogleBooks</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>GoogleDrive</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+	</tr>
+	<tr>
+		<td><p>Hulu</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>IMVDb</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>JupiterBroadcasting</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>LastFM</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>MusicBrainz</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Netflix</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>OMDB</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>OpenSubtitles</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>PlutoTV</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Spotify</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>StirrTV</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Tidal</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>ThePosterDB</p></td>
+		<td><p>No</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>TheTVDB</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>TMDb</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Trackt</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>TuneIn</p></td>
+		<td><p>No</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>YouTubeMetadata</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>VGMdb</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Xumo</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p>3rdParty Plugin</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p><b>Tuners</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>AntennasDirect ClearStream TV&trade; Wireless</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>AVerMediaAVerTV Volar Hybrid Q</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>DVBLogicTVButler 100TC</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeDigital TV for Xbox One</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeFreeview HD TV for Xbox One</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-dualHD</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-quadHD</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-HVR-955Q</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-HVR-22XX</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-soloHD</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>SiliconDustHDHomeRun</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p><b>ServerOS</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>Android</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Asusor</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Docker</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>FreeBSD</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>FreeNAS</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Linux</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>MacOS</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>NetgearReadyNAS</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>NvidiaShield</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>OpenMedia Vault</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>QNAP</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>RasberryPi</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Synology</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>TerraMaster</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Thecus</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>WDMy Cloud &amp; My Passport</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Windows</p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+		<td><p><font color="#00a933">Yes</font></p></td>
+	</tr>
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p><b>Clients</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>Android</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+	<tr>
+		<td><p>AndroidTV</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+	<tr>
+		<td><p>AppleTV</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+	<tr>
+		<td><p>FireTV</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+	<tr>
+		<td><p>GoogleDaydream VR</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>iOS</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+	<tr>
+		<td><p>Kodi</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+	</tr>
+	<tr>
+		<td><p>LenovoMirage Solo VR</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Linux</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>MacOS</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>OculusGo VR</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Roku</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+	</tr>
+	<tr>
+		<td><p>SamsungGear VR</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Sonos</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>SonyPlaystation 3</p></td>
+		<td><p>DLNA</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>DLNA</p></td>
+	</tr>
+	<tr>
+		<td><p>SonyPlaystation 4</p></td>
+		<td><p>WebBrowser</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>WebBrowser</p></td>
+	</tr>
+	<tr>
+		<td><p>Tivo</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Tizen(Samsung TV)</p></td>
+		<td><p></td><font color="#00a933"><a href="https://github.com/jellyfin/jellyfin-tizen">Free</a>/Noton Store</span></span></span></font></span></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+	</tr>
+	<tr>
+		<td><p>WebBrowser</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+	</tr>
+	<tr>
+		<td><p>WebOS(LG TV)</p></td>
+		<td><p></td><font color="#00a933"><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Noton Store</span></span></span></font></span></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+	</tr>
+	<tr>
+		<td><p>Windows</p></td>
+		<td><p><a href="https://jellyfin.org/clients/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p><a href="https://kodi.tv/download/"></td><font color="#00a933">Free</span></span></span></font></span></a></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+	<tr>
+		<td><p>Xbox360</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>XboxOne</p></td>
+		<td><p><font color="#00a933"><a href="https://github.com/jellyfin/jellyfin-uwp">Free</a></font><font color="#000000">&amp;</font><font color="#00a933"><a href="https://www.microsoft.com/en-us/p/videotape-a-modern-vlc-alternative/9nlvh2ll4p1z?cid=storebadge&amp;ocid=badge&amp;rtc=1&amp;activetab=pivot:overviewtab">3RDParty</a></font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p>$5or Server License</p></td>
+		<td><p>$5or Server License</p></td>
+	</tr>
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p>AudiobookClient</p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>BookClients</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-opds"><font face="Liberation Sans"><font size="2" style="font-size: 10pt">OPDS</a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+	<tr>
+		<td><p>MusicClients</p></td>
+		<td><p><a href="https://github.com/UnicornsOnLSD/finamp">Finamp</a>,<a href="https://github.com/dkanada/gelli">Gelli</a>, <a href="https://github.com/m0ngr31/jellyamp">JellyAmp</a>,<a href="https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle">S2Music Player</a>, <a href="https://github.com/jeffvli/sonixd">Sonixd</a></p></td>
+		<td><p<font color="#ff0000">>No</font></p></td>
+		<td><p><a href="https://plexamp.com/"><font face="Liberation Sans"><font size="2" style="font-size: 10pt">Plexamp</a></p></td>
+		<td><p><font color="#ff0000">No</font></p></td>
+	</tr>
+</table>
+
+
+
+<table>
+	<tr>
+		<td><p><b>ServerLicense</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>Monthly</p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p></td><a href="https://www.plex.tv/plex-pass/">$4.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15devices)</a></p></td>
+		<td><p></td><a href="https://emby.media/premiere.html">$4.99</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
+	</tr>
+	<tr>
+		<td><p>Yearly</p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p></td><a href="https://www.plex.tv/plex-pass/">$39.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15devices)</a></p></td>
+		<td><p></td><a href="https://emby.media/premiere.html">$54.00</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
+	</tr>
+	<tr>
+		<td><p>Lifetime</p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p><font color="#00a933">Free</font></p></td>
+		<td><p></td><a href="https://www.plex.tv/plex-pass/">$119.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15devices)</a></p></td>
+		<td><p></td><a href="https://emby.media/premiere.html">$119.00</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
+	</tr>
+</table>
+</body>
