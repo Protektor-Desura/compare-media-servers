@@ -685,3 +685,91 @@ Updated January, 2022
 </table>
 <br>
 <br>
+<table>
+	<tr>
+		<td><p><b>Tuners</b></p></td>
+		<td><p><b>Jellyfin</b></p></td>
+		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Plex</b></p></td>
+		<td><p><b>Emby</b></p></td>
+	</tr>
+	<tr>
+		<td><p>AntennasDirect ClearStream TV&trade; Wireless</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>AVerMediaAVerTV Volar Hybrid Q</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>DVBLogicTVButler 100TC</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeDigital TV for Xbox One</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeFreeview HD TV for Xbox One</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-dualHD</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-quadHD</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-HVR-955Q</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-HVR-22XX</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>HauppaugeWinTV-soloHD</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>SiliconDustHDHomeRun</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>Yes</p></td>
+	</tr>
+</table>
+<br>
+<br>
