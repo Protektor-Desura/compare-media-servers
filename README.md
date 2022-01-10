@@ -13,7 +13,7 @@ Updated January, 2022
 		<td><p>License</p></td>
 		<td><p>GPL v3</p></td>
 		<td><p>GPL v2</p></td>
-		<td<p>Full Commercial</p></td>
+		<td><p>Full Commercial</p></td>
 		<td><p>Full Commercial</p></td>
 	</tr>
 	<tr>
