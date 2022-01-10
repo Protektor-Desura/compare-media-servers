@@ -1,6 +1,5 @@
 Updated January, 2022
 
-<body>
 <table>
 	<tr>
 		<td><p><b>Features</b></p></td>
@@ -1068,6 +1067,3 @@ Updated January, 2022
 		<td><p></td><a href="https://emby.media/premiere.html">$119.00</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
 	</tr>
 </table>
-<p><br/>
-<br/>
-</p>
