@@ -14,8 +14,8 @@
 	</tr>
 	<tr>
 		<td><p>License</p></td>
-		<td><p>GPL v3</p></td>
-		<td><p>GPL v2</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin/blob/master/LICENSE">GPL v2</a></p></td>
+		<td><p><a href="https://kodi.tv/article/please-respect-gpl-license/">GPL v2</a></p></td>
 		<td><p>Full Commercial</p></td>
 		<td><p>Full Commercial</p></td>
 	</tr>
@@ -113,7 +113,7 @@
 	<tr>
 		<td><p>Live TV/DVR Support</p></td>
 		<td><p>Yes</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.tv/about">Yes</a></p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
 	</tr>
