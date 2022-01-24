@@ -55,7 +55,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>CameraUpload</p></td>
+		<td><p>Camera Upload</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
@@ -76,7 +76,7 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>E-BookSupport</p></td>
+		<td><p>E-Book Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -139,7 +139,7 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>MobileSync</p></td>
+		<td><p>Mobile Sync</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
@@ -160,7 +160,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>MusicSupport</p></td>
+		<td><p>Music Support</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
@@ -174,8 +174,8 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Offline Media</p></td>
-		<td><p>Yes</p></td>
+		<td><p>Offline Media<br>(Download & Play Offline</p></td>
+		<td><p>Yes/Free</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
@@ -230,7 +230,7 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Recommend&amp; Discover</p></td>
+		<td><p>Recommend & Discover</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
@@ -300,7 +300,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Trailers&amp; Extras</p></td>
+		<td><p>Trailers & Extras</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
