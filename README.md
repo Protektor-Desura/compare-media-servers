@@ -1,6 +1,7 @@
 <p>Updated January, 2022</p>
 <br>
 <p>I have included some links to show where some of the information came from, especially on the pricing. The links should show you current pricing.</p>
+<p>There are many pieces of information that I could not find information for so I had to set it to no, until proof/links can be provided.</p>
 <br>
 <br>
 <br>
@@ -16,8 +17,8 @@
 		<td><p>License</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin/blob/master/LICENSE">GPL v2</a></p></td>
 		<td><p><a href="https://kodi.tv/article/please-respect-gpl-license/">GPL v2</a></p></td>
-		<td><p>Full Commercial</p></td>
-		<td><p>Full Commercial</p></td>
+		<td><p><a href="https://www.plex.tv/about/privacy-legal/plex-terms-of-service/">Full Commercial</a></p></td>
+		<td><p><a href="https://emby.media/license.html">Full Commercial</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Client/Server</p></td>
@@ -35,17 +36,17 @@
 	</tr>
 	<tr>
 		<td><p>AV1 Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/clients/codec-support.html">Yes</a></p></td>
+		<td><p><a href="https://www.xda-developers.com/kodi-19-adds-support-for-av1-decoding-hdr10-dolby-vision-tvos-and-more/">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/203824396-what-media-formats-are-supported/">No</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Audiobook Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Audiobooks">Yes</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Bandwidth Limiting</p></td>
@@ -63,59 +64,73 @@
 	</tr>
 	<tr>
 		<td><p>Collections</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tmdbboxsets">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Movie_sets">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/201273953-collections/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001159487-collections">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Comic Book Support</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>E-Book Support</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf>">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Favorites and Tags</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin/issues/1774">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Favourites">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/99976-favorites/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Game Support</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
-		<td><p>License & Monthly Fee</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/game.libretro">Yes</a></p></td>
+		<td><p><a href="https://www.plex.tv/arcade/">$2.99/Month</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/68522-gamebrowser-plugin-broken-since-upgrade-to-4002/">Broken</a></p></td>
+	</tr>
+	<tr>
+		<td><p>Group Watching</p></td>
+		<td><p><a href="https://jellyfin.org/posts/jellyfin-10-6-0/">Free/SyncPlay</a></p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://support.plex.tv/articles/watch-together/">License/Watch Together</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Hardware Transcoding</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/administration/hardware-acceleration.html">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/115002178853-using-hardware-accelerated-streaming/">License</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160148-hardware-acceleration-overview">License</a></p></td>
+	</tr>
+	<tr>
+		<td><p>Internet Radio Support</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/media/internet-radio.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:Radio">Yes</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>LDAP Support</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-ldapauth">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://emby.media/introducing-ldap-support-for-emby.html">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Live TV/DVR Support</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/about">Yes</a></p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://www.plex.tv/tv/">License</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">License</p></td>
 	</tr>
 	<tr>
 		<td><p>Lyrics</p></td>
@@ -126,7 +141,7 @@
 	</tr>
 	<tr>
 		<td><p>Magazine Support</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -188,13 +203,6 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Group Watching</p></td>
-		<td><p>Free/SyncPlay</p></td>
-		<td><p>No</p></td>
-		<td><p>License/WatchTogether</p></td>
-		<td><p>No</p></td>
-	</tr>
-	<tr>
 		<td><p>Per User Stream Limit</p></td>
 		<td><p>Yes/Free</p></td>
 		<td><p>No</p></td>
@@ -223,13 +231,6 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Internet Radio Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>3rdParty Plugin</p></td>
-		<td><p>No</p></td>
-		<td><p>No</p></td>
-	</tr>
-	<tr>
 		<td><p>Recommend & Discover</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
@@ -244,25 +245,32 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Server Stats</p></td>
-		<td><p>Yes</p></td>
+		<td><p>Server Backup</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
-		<td><p>Yes</p></td>
+	</tr>
+	<tr>
+		<td><p>Server Stats</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-playbackreporting">Yes</a>, <a href="https://github.com/mregni/EmbyStat">Embystat</a></p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://support.plex.tv/articles/200871837-status-and-dashboard/">License</a>, <a href="https://tautulli.com/">Tautulli</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/80005-statistics-plugin/">Yes</a>, <a href="https://github.com/mregni/EmbyStat">EmbyStat</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Sharing Libraries</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://support.plex.tv/articles/201105738-creating-and-managing-server-shares/">Yes</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Simultaneous Login Limits</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://features.jellyfin.org/posts/59/account-based-stream-limit">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/14295-set-simultaneous-connect-limit-for-users/page/7/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Smart Home/Voice Control</p></td>
