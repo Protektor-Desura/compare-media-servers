@@ -1094,7 +1094,7 @@
 	</tr>
 	<tr>
 		<td><p>Audiobook Client</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/nvllsvm/jellysub">Subsonic</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
