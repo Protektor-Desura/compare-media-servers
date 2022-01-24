@@ -335,7 +335,7 @@
 	<tr>
 		<td><p><b>Server OS</b></p></td>
 		<td><p><b>Jellyfin</b></p></td>
-		<td><p><b>Kodi</b><br>(Not Server/Client)</p></td>
+		<td><p><br><b>Kodi</b><br>(Not Server/Client)</p></td>
 		<td><p><b>Plex</b></p></td>
 		<td><p><b>Emby</b></p></td>
 	</tr>
