@@ -703,77 +703,77 @@
 		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td><p>AntennasDirect ClearStream TV&trade; Wireless</p></td>
+		<td><p>Antennas Direct ClearStream TV&trade; Wireless</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>AVerMediaAVerTV Volar Hybrid Q</p></td>
+		<td><p>AVerMedia AVerTV Volar Hybrid Q</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>DVBLogicTVButler 100TC</p></td>
+		<td><p>DVBLogic TVButler 100TC</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeDigital TV for Xbox One</p></td>
+		<td><p>Hauppauge Digital TV for Xbox One</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeFreeview HD TV for Xbox One</p></td>
+		<td><p>Hauppauge Freeview HD TV for Xbox One</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeWinTV-dualHD</p></td>
+		<td><p>Hauppauge WinTV-dual HD</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeWinTV-quadHD</p></td>
+		<td><p>Hauppauge WinTV-quad HD</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeWinTV-HVR-955Q</p></td>
+		<td><p>Hauppauge WinTV-HVR-955Q</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeWinTV-HVR-22XX</p></td>
+		<td><p>Hauppauge WinTV-HVR-22XX</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>HauppaugeWinTV-soloHD</p></td>
+		<td><p>Hauppauge WinTV-solo HD</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>SiliconDustHDHomeRun</p></td>
+		<td><p>SiliconDust HDHomeRun</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
