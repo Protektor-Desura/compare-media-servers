@@ -452,7 +452,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>WDMy Cloud &amp; My Passport</p></td>
+		<td><p>WDMy Cloud & My Passport</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
@@ -680,7 +680,7 @@
 	<tr>
 		<td><p>TMDb</p></td>
 		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvshows.themoviedb.org.python">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
