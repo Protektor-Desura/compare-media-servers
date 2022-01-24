@@ -174,7 +174,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Offline Media<br>(Download & Play Offline</p></td>
+		<td><p>Offline Media<br>(Download & Play Offline)</p></td>
 		<td><p>Yes/Free</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
