@@ -953,7 +953,7 @@
 	</tr>
 	<tr>
 		<td><p>WebOS(LG TV)</p></td>
-		<td><p><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Not in Store</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-webos">Free/Not in Store</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.plex.tv/articles/204080173-which-smart-tv-models-are-supported/">Free</a></p></td>
 		<td><p><a href="https://emby.media/emby-for-lg-smart-tv.html">Free</a></p></td>
