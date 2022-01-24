@@ -915,171 +915,171 @@
 <table>
 	<tr>
 		<td><p><b>Clients</b></p></td>
-		<td><p><b>Jellyfin</b></p></td>
-		<td><p><b>Kodi</b></p></td>
-		<td><p><b>Plex</b></p></td>
-		<td><p><b>Emby</b></p></td>
+		<td><p><b><a href="https://jellyfin.org/clients/">Jellyfin</a></b></p></td>
+		<td><p><b><a href="https://kodi.tv/download">Kodi</a></b></p></td>
+		<td><p><b><a href="https://www.plex.tv/media-server-downloads/#plex-app">Plex</a></b></p></td>
+		<td><p><b><a href="https://emby.media/download.html">Emby</a></b></p></td>
 	</tr>
 	<tr>
 		<td><p>Android</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>$5 or Server License</td>
-		<td><p>$5 or Server License</td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=org.jellyfin.mobile">Free (Google Store)</a>, <a href="https://f-droid.org/packages/org.jellyfin.mobile/">Free (F-Droid Store)</a>, <a href="https://www.amazon.com/Jellyfin/dp/B081RFTTQ9/">Free (Amazon Store)</a>, <a href="https://play.google.com/store/apps/details?id=tv.mrmc.mrmc">MrMC $2.99<a></p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=org.xbmc.kodi">Free</a></p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.android">$5 or Server License</a></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.mb.android">$5 or Server License</a></td>
 	</tr>
 	<tr>
 		<td><p>AndroidTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=org.jellyfin.androidtv">Free</a></p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=org.xbmc.kodi">Free</a></p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.android">$5 or Server License</a></p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=tv.emby.embyatv">$5 or Server License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>AppleTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://testflight.apple.com/join/WiN0G62Q">Free</a>, <a href="https://apps.apple.com/app/id1136220934">InFuse $.99/month, $9.99/yearly, or $74.99/lifetime</a>, <a href="https://apps.apple.com/us/app/mrmc/id1059536415">MrMC $6.99</a></p></td>
+		<td><p>Not in Apple Store</p></td>
+		<td><p><a href="https://apps.apple.com/us/app/plex-movies-tv-music-more/id383457673">$5 or Server License</a></p></td>
+		<td><p><a href="https://apps.apple.com/us/app/emby/id992180193">$5 or Server License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>FireTV</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://www.amazon.com/gp/aw/d/B07TX7Z725">Free</a></p></td>
+		<td><p>Not in Amazon Store</p></td>
+		<td><p><a href="https://www.amazon.com/Plex-Inc/dp/B004Y1WCDE/">$5 or Server License</a></p></td>
+		<td><p><a href="https://www.amazon.com/Emby-for-Fire-TV/dp/B00VVJKTW8/">$5 or Server License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>GoogleDaydream VR</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.android.vr">$5 or Server License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>iOS</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
-		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://apps.apple.com/us/app/jellyfin-mobile/id1480192618">Free</a></p></td>
+		<td><p>Not in Apple Store</p></td>
+		<td><p><a href="https://apps.apple.com/us/app/plex-movies-tv-music-more/id383457673">$5 or Server License</a></p></td>
+		<td><p><a href="https://apps.apple.com/us/app/emby/id992180193">$5 or Server License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Kodi</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-kodi">Jellyfin-Kodi/Free</a>, <a href="https://github.com/jellyfin/jellycon">Jellycon/Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Free</p></td>
-		<td><p>Free</p></td>
+		<td><p><a href="https://github.com/croneter/PlexKodiConnect">PlexKodiConnect/Free</a></p></td>
+		<td><p><a href="https://github.com/faush01/plugin.video.embycon">Embycon/Free</a></p></td>
 	</tr>
 	<tr>
 		<td><p>LenovoMirage Solo VR</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.android.vr">$5 or Server License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Linux</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-media-player">Free</a></p></td>
 		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>MacOS</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-media-player">Free</a></p></td>
 		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>Free</p></td>
 		<td><p>No</p></td>
+		<td><p><a href="https://emby.media/emby-theater-macos.html">$5 or Server License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>OculusGo VR</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.android.vr">$5 or Server License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Roku</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://channelstore.roku.com/details/592369/jellyfin">Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Free</p></td>
-		<td><p>Free</p></td>
+		<td><p><a href="https://channelstore.roku.com/details/68e8d568fdd68a1197a2b9a5f69e16c0/plex-free-movies-and-tv">Free</a></p></td>
+		<td><p><a href="https://channelstore.roku.com/details/904d20cb3bd4aa340a35aa9c83c9a128/emby">Free</a></p></td>
 	</tr>
 	<tr>
 		<td><p>SamsungGear VR</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.android.vr">$5 or Server License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Sonos</p></td>
+		<td><p><a href="https://en.community.sonos.com/controllers-software-228995/sonos-one-and-dlna-6859030">DLNA</a></p></td>
 		<td><p>No</p></td>
-		<td><p>No</p></td>
-		<td><p>Free</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://support.plex.tv/articles/218168898-installing-plex-for-sonos/">Free</a></p></td>
+		<td><p><a href="https://en.community.sonos.com/controllers-software-228995/sonos-one-and-dlna-6859030">DLNA</a></p></td>
 	</tr>
 	<tr>
 		<td><p>SonyPlaystation 3</p></td>
-		<td><p>DLNA</p></td>
+		<td><p>DLNA/WebBrowser</p></td>
 		<td><p>No</p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>DLNA</p></td>
+		<td><p><a href="https://support.plex.tv/articles/204075366-is-it-for-the-playstation-3-or-playstation-4/">$5 or Server License</a></p></td>
+		<td><p>DLNA/WebBrowser</p></td>
 	</tr>
 	<tr>
 		<td><p>SonyPlaystation 4</p></td>
-		<td><p>WebBrowser</p></td>
+		<td><p>DLNA/WebBrowser</p></td>
 		<td><p>No</p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>WebBrowser</p></td>
+		<td><p><a href="https://www.plex.tv/blog/plex-ps3-ps4-now-available-north-south-america/">$5 or Server License</a></p></td>
+		<td><p>DLNA/WebBrowser</p></td>
 	</tr>
 	<tr>
-		<td><p>Tivo</p></td>
+		<td><p>Tivo DVR Box</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Free</p></td>
+		<td><p><a href="https://tivoidp.tivo.com/tivoCommunitySupport/s/article/Plex-App-Information#:~:text=The%20Plex%20app%20enables%20TiVo,%2C%20Revision%203%2C%20and%20more.">Free</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Tizen(Samsung TV)</p></td>
-		<td><p><a href="https://github.com/jellyfin/jellyfin-tizen">Free</a>/Not in Store</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-tizen">Free/Not in Store</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Free</p></td>
-		<td><p>Free</p></td>
+		<td><p><a href="https://support.plex.tv/articles/204080173-which-smart-tv-models-are-supported/">Free</a></p></td>
+		<td><p><a href="https://emby.media/emby-for-samsung-smart-tv.html">Free</a></p></td>
 	</tr>
 	<tr>
 		<td><p>WebBrowser</p></td>
 		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Free</p></td>
-		<td><p>Free</p></td>
+		<td><p><a href="https://emby.media/emby-web-client.html">Free</a></p></td>
 	</tr>
 	<tr>
 		<td><p>WebOS(LG TV)</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-webos">Free</a>/Not in Store</p></td>
 		<td><p>No</p></td>
-		<td><p>Free</p></td>
-		<td><p>Free</p></td>
+		<td><p><a href="https://support.plex.tv/articles/204080173-which-smart-tv-models-are-supported/">Free</a></p></td>
+		<td><p><a href="https://emby.media/emby-for-lg-smart-tv.html">Free</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Windows</p></td>
-		<td><p><a href="https://jellyfin.org/clients/">Free</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-media-player">Free</a></p></td>
 		<td><p><a href="https://kodi.tv/download/">Free</a></p></td>
-		<td><p>$5or Server License</p></td>
-		<td><p>$5or Server License</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/#plex-app">$5or Server License</a></p></td>
+		<td><p><a href="https://emby.media/emby-theater.html">$5or Server License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Xbox360</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://www.plex.tv/blog/plex-xbox-one-xbox-360/">$5 or Server License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>XboxOne</p></td>
-		<td><p><a href="https://github.com/jellyfin/jellyfin-uwp">Free</a>&amp;<a href="https://www.microsoft.com/en-us/p/videotape-a-modern-vlc-alternative/9nlvh2ll4p1z?cid=storebadge&amp;ocid=badge&amp;rtc=1&amp;activetab=pivot:overviewtab">3RDParty</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-uwp">Free</a>, <a href="https://www.microsoft.com/en-us/p/videotape-a-modern-vlc-alternative/9nlvh2ll4p1z?cid=storebadge&amp;ocid=badge&amp;rtc=1&amp;activetab=pivot:overviewtab">Videotape/Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p>$5 or Server License</p></td>
-		<td><p>$5 or Server License</p></td>
+		<td><p><a href="https://www.plex.tv/blog/plex-xbox-one-xbox-360/">$5 or Server License</a></p></td>
+		<td><p><a href="https://www.microsoft.com/en-us/p/emby-theater/9nblggh4t70l?activetab=pivot:overviewtab">$5 or Server License</a></p></td>
 	</tr>
 </table>
 <br>
