@@ -1128,21 +1128,21 @@
 		<td><p>Monthly</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
-		<td><p><a href="https://www.plex.tv/plex-pass/">$4.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15devices)</a></p></td>
+		<td><p><a href="https://www.plex.tv/plex-pass/">$4.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15 devices)</a></p></td>
 		<td><p><a href="https://emby.media/premiere.html">$4.99</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Yearly</p></td>
 		<td><p>Free</p></td>
 		<td><p>Free</p></td>
-		<td><p><a href="https://www.plex.tv/plex-pass/">$39.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15devices)</a></p></td>
+		<td><p><a href="https://www.plex.tv/plex-pass/">$39.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15 devices)</a></p></td>
 		<td><p><a href="https://emby.media/premiere.html">$54.00</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Lifetime</p></td>
 		<td><p>Free/Unlimited Users</p></td>
 		<td><p>Free</p></td>
-		<td><p><a href="https://www.plex.tv/plex-pass/">$119.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15devices)</a></p></td>
+		<td><p><a href="https://www.plex.tv/plex-pass/">$119.99</a> <a href="https://support.plex.tv/articles/203815766-what-is-plex-home/">(15 devices)</a></p></td>
 		<td><p><a href="https://emby.media/premiere.html">$119.00</a> <a href="https://emby.media/premiereterms.html">(25 devices)</a></p></td>
 	</tr>
 </table>
