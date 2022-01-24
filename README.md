@@ -125,6 +125,13 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
+		<td><p>Magazine Support</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
 		<td><p>Mobile Media Optimizer</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -182,14 +189,14 @@
 	</tr>
 	<tr>
 		<td><p>Group Watching</p></td>
-		<td><p>Yes/SyncPlay</p></td>
+		<td><p>Free/SyncPlay</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes/WatchTogether</p></td>
+		<td><p>License/WatchTogether</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Per User Stream Limit</p></td>
-		<td><p>Yes</p></td>
+		<td><p>Yes/Free</p></td>
 		<td><p>No</p></td>
 		<td><p>License</p></td>
 		<td><p>License</p></td>
@@ -308,7 +315,7 @@
 	</tr>
 	<tr>
 		<td><p>TV Guide Data</p></td>
-		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a></p></td>
+		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a>, <a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/tv/">License</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/forum/182-emby-guide-data/">License</a></p></td>
@@ -484,10 +491,10 @@
 		<td><p>No</p></td>
 	</tr>
 		<td><p>Anime Metadata</p></td>
-		<td><p>Yes (Anime,AniBD,AniList,AniSearch,Kitsu,Shoko)</p></td>
+	        <td><p>Yes (<a href="https://github.com/jellyfin-archive/jellyfin-plugin-anime">Anime</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-anidb">AniBD</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-anilist">AniList</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-anisearch">AniSearch</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-kitsu">Kitsu</a>, <a href="https://github.com/ShokoAnime/Shokofin">Shoko</a>)</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+ 	        <td><p><a href="https://emby.media/community/index.php?/topic/2279-anime/">Yes</a></p></td>
 	<tr>
 		<td><p>AudioDB</p></td>
 		<td><p>Yes</p></td>
@@ -517,39 +524,46 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
+		<td><p>Distro Live TV</p></td>
+		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>		
+	<tr>
 		<td><p>Douban</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/77916-the-douban-plugin-can-only-scrape-four-actors/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Dropbox</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/21863-dropbox-app-sync/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Fanart</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-fanart">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/64011-fanart-tv/">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>GoogleBooks</p></td>
-		<td><p>Yes</p></td>
+		<td><p>Google Books</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>GoogleDrive</p></td>
+		<td><p>Google Drive</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001162194-google-drive">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Hulu</p></td>
@@ -560,28 +574,28 @@
 	</tr>
 	<tr>
 		<td><p>IMVDb</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>JupiterBroadcasting</p></td>
+		<td><p>Jupiter Broadcasting</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/18398-jupiter-broadcasting-channel/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>LastFM</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>MusicBrainz</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-musicbrainz">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
@@ -595,25 +609,39 @@
 	</tr>
 	<tr>
 		<td><p>OMDB</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-omdb">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>OpenSubtitles</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-opensubtitles">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
+		<td><p>Plex Live TV</p></td>
+		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
+		<td><p>No</p></td>
+		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+	</tr>		
+	<tr>
 		<td><p>Pluto TV</p></td>
-		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a>, <a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
 		<td><p>3rdParty Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
+	<tr>
+		<td><p>Samsung Live TV</p></td>
+		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>		
 	<tr>
 		<td><p>Spotify</p></td>
 		<td><p>No</p></td>
@@ -625,7 +653,7 @@
 		<td><p>Stirr TV</p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
 		<td><p>3rdParty Plugin</p></td>
-		<td><p>Yes</p></td>
+		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -657,11 +685,11 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Trackt</p></td>
-		<td><p>Yes</p></td>
+		<td><p>Trakt</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-trakt">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/96525-idiot-guide-to-trakt/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TuneIn</p></td>
@@ -672,7 +700,7 @@
 	</tr>
 	<tr>
 		<td><p>YouTubeMetadata</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://github.com/ankenyr/jellyfin-youtube-metadata-plugin">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
