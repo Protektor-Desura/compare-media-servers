@@ -43,7 +43,7 @@
 	<tr>
 		<td><p>Audiobook Support</p></td>
 		<td><p>Yes</p></td>
-		<td><p>No</p></td>
+		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
@@ -396,14 +396,14 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>NetgearReadyNAS</p></td>
+		<td><p>Netgear ReadyNAS</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>NvidiaShield</p></td>
+		<td><p>Nvidia Shield</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
@@ -479,14 +479,14 @@
 	<tr>
 		<td><p>Amazon Prime Music</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://github.com/spacys/mediathek">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Amazon Prime Video</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://github.com/Sandmann79/xbmc">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
@@ -497,57 +497,57 @@
  	        <td><p><a href="https://emby.media/community/index.php?/topic/2279-anime/">Yes</a></p></td>
 	<tr>
 		<td><p>AudioDB</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin">Yes</a></p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/metadata.common.theaudiodb.com">Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>BBC iPlayer</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/plugin.video.iplayerwww">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Deezer</p></td>
 		<td><p><a href="https://github.com/RandomNinjaAtk/docker-amd">3rd Party Add-on</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/Valentin271/DeezerKodi">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Disney+</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Distro Live TV</p></td>
 		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
 		<td><p>Douban</p></td>
 		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">Yes</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/metadata.douban.com">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/77916-the-douban-plugin-can-only-scrape-four-actors/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Dropbox</p></td>
 		<td><p>No</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:Dbmc_(Dropbox_add-on)">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/21863-dropbox-app-sync/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Fanart</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-fanart">Yes</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/script.grab.fanart">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/64011-fanart-tv/">Yes</a></p></td>
 	</tr>
@@ -561,63 +561,63 @@
 	<tr>
 		<td><p>Google Drive</p></td>
 		<td><p>No</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/plugin.googledrive">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.emby.media/support/solutions/articles/44001162194-google-drive">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Hulu</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://koditips.com/install-hulu-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>IMVDb</p></td>
 		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">Yes</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://koditips.com/imvdb-kodi-internet-music-video-database/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Jupiter Broadcasting</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:Jupiter_Broadcasting">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/18398-jupiter-broadcasting-channel/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>LastFM</p></td>
 		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/service.scrobbler.lastfm">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>MusicBrainz</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-musicbrainz">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/metadata.common.musicbrainz.org">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>Netflix</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://howtomediacenter.com/en/install-netflix-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>OMDB</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-omdb">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>OpenSubtitles</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-opensubtitles">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/service.subtitles.opensubtitles">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
@@ -631,55 +631,55 @@
 	<tr>
 		<td><p>Pluto TV</p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a>, <a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/plugin.video.plutotv">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Samsung Live TV</p></td>
 		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://www.wirelesshack.org/how-to-install-samsung-tv-plus-kodi-addon.html">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
 		<td><p>Spotify</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://github.com/kodi-community-addons/plugin.audio.spotify">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Stirr TV</p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://www.matthuisman.nz/2020/10/stirr-kodi-add-on.html">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Tidal</p></td>
 		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:TIDAL">Yes</a></p></td>
 		<td><p>License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>The PosterDB</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>The TVDB</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tvdb">Yes</a></p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvdb.com.python">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>TMDb</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tmdb">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvshows.themoviedb.org.python">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
@@ -687,27 +687,34 @@
 	<tr>
 		<td><p>Trakt</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-trakt">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/script.trakt">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/96525-idiot-guide-to-trakt/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TuneIn</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://brainster-tech.com/2021/06/29/how-to-install-tunein-radio-on-kodi/">3rd Party Plugin</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p>TVMaze</p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tvmaze">Yes</a></p></td>
+		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvmaze">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>YouTubeMetadata</p></td>
-		<td><p><a href="https://github.com/ankenyr/jellyfin-youtube-metadata-plugin">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/ankenyr/jellyfin-youtube-metadata-plugin">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>VGMdb</p></td>
-		<td><p><a href="https://github.com/nielsvanvelzen/jellyfin-plugin-vgmdb">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/nielsvanvelzen/jellyfin-plugin-vgmdb">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -715,7 +722,7 @@
 	<tr>
 		<td><p>Xumo</p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
-		<td><p>3rdParty Plugin</p></td>
+		<td><p><a href="https://troypoint.com/xumo-tv-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
