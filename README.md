@@ -310,8 +310,8 @@
 		<td><p>TV Guide Data</p></td>
 		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a></p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://www.plex.tv/tv/">License</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/forum/182-emby-guide-data/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Virtual Reality</p></td>
@@ -335,7 +335,7 @@
 	<tr>
 		<td><p><b>Server OS</b></p></td>
 		<td><p><b>Jellyfin</b></p></td>
-		<td><p><b>Kodi</b></p></td>
+		<td><p><b>Kodi (Not a client/server)</b></p></td>
 		<td><p><b>Plex</b></p></td>
 		<td><p><b>Emby</b></p></td>
 	</tr>
