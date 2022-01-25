@@ -1,7 +1,7 @@
 <p>Updated January, 2022</p>
 <br>
 <p>I have included some links to show where some of the information came from, especially on the pricing. The links should show you current pricing.</p>
-<p>There are many pieces of information that I could not find information for so I had to set it to no, until proof/links can be provided.</p>
+<p>There are pieces of information that I could not find information for so I had to set it to no, until proof/links can be provided.</p>
 <br>
 <br>
 <br>
