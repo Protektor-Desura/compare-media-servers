@@ -355,119 +355,119 @@
 		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td><p>Android</p></td>
+		<td><p><a href="https://www.android.com/">Android</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.mediaserver.smb&hl=en_US&gl=US">Yes</a></p></td>
 		<td><p><a href="https://emby.media/server-android.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Asusor</p></td>
+		<td><p><a href="https://www.asustor.com/en/">Asusor</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</p></td>
 		<td><p><a href="https://emby.media/asustor-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Docker</p></td>
+		<td><p><a href="https://www.docker.com/">Docker</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://emby.media/docker-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>FreeBSD</p></td>
+		<td><p><a href="https://www.freebsd.org/">FreeBSD</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/freebsd-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>FreeNAS</p></td>
-		<td><p>No</p></td>
-		<td><p>No</p></td>
-		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
-		<td><p><a href="https://emby.media/freenas-server.html">Yes</a></p></td>
-	</tr>
-	<tr>
-		<td><p>Linux</p></td>
+		<td><p><a href="https://ubuntu.com/">Linux</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/linux-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>MacOS</p></td>
+		<td><p><href="https://www.apple.com/macos/">MacOS</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/mac-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Netgear ReadyNAS</p></td>
+		<td><p><a href="https://www.readynas.com">Netgear ReadyNAS</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/netgear-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Nvidia Shield</p></td>
+		<td><p><a href="https://www.nvidia.com/en-us/shield/">Nvidia Shield</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.mediaserver.smb&hl=en_US&gl=US">Yes</a></p></td>
 		<td><p><a href="https://emby.media/server-android.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Open Media Vault</p></td>
+		<td><p><a href="https://www.openmediavault.org/">Open Media Vault</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/open-media-vault-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>QNAP</p></td>
+		<td><p><a href="https://www.qnap.com/en-us/">QNAP</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/qnap-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>RasberryPi</p></td>
+		<td><p><a href="https://www.raspberrypi.org/">Rasberry Pi</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://pimylifeup.com/raspberry-pi-plex-server/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/linux-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Synology</p></td>
-		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
+		<td><p><a href="https://www.synology.com/en-us">Synology</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/administration/install/synology.html">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/synology6-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>TerraMaster</p></td>
+		<td><p><a href="https://www.terra-master.com/">Terra Master</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/terramaster-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Thecus</p></td>
+		<td><p><a href="https://www.thecus.com/">Thecus</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/thecus-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>WD My Cloud & My Passport</p></td>
+		<td><p><a href="https://www.truenas.com/">TrueNAS</a></p></td>
+		<td><p>No (docker supported)</p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/freenas-server.html">Yes</a></p></td>
+	</tr>
+	<tr>
+		<td><p><a href="https://www.westerndigital.com/products/cloud-storage/wd-my-cloud-home">WD My Cloud & My Passport</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/western-digital-server-os3.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Windows</p></td>
+		<td><p><a href="https://www.microsoft.com/en-us/windows/">Windows</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
@@ -485,14 +485,14 @@
 		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td><p>Amazon Prime Music</p></td>
+		<td><p><a href="https://www.amazon.com/music/prime">Amazon Prime Music</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://github.com/spacys/mediathek">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Amazon Prime Video</p></td>
+		<td><p><a href="https://www.amazon.com/Prime-Video/b?node=2676882011">Amazon Prime Video</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://github.com/Sandmann79/xbmc">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
@@ -504,56 +504,56 @@
 		<td><p>No</p></td>
  	        <td><p><a href="https://emby.media/community/index.php?/topic/2279-anime/">Yes</a></p></td>
 	<tr>
-		<td><p>AudioDB</p></td>
+		<td><p><a href="https://www.theaudiodb.com/">AudioDB</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.common.theaudiodb.com">Yes</p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>BBC iPlayer</p></td>
+		<td><p><a href="https://www.bbc.co.uk/iplayer">BBC iPlayer</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/plugin.video.iplayerwww">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Deezer</p></td>
+		<td><p><a href="https://www.deezer.com/us/">Deezer</a></p></td>
 		<td><p><a href="https://github.com/RandomNinjaAtk/docker-amd">3rd Party Add-on</a></p></td>
 		<td><p><a href="https://github.com/Valentin271/DeezerKodi">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Disney+</p></td>
+		<td><p><a href="https://www.disneyplus.com/">Disney+</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Distro Live TV</p></td>
+		<td><p><a href="https://www.distro.tv/">Distro Live TV</a></p></td>
 		<td><p><a href="https://github.com/cabernetwork/cabernet">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
-		<td><p>Douban</p></td>
+		<td><p><a href="https://www.douban.com/">Douban</a></p></td>
 		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">3rd Party Plugin</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.douban.com">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/77916-the-douban-plugin-can-only-scrape-four-actors/">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Dropbox</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://www.dropbox.com/">Dropbox</a></p></td>
+		<td><p><a href="https://rclone.org/">3rd Party Add-on</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:Dbmc_(Dropbox_add-on)">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/21863-dropbox-app-sync/">License</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Fanart</p></td>
+		<td><p><a href="https://fanart.tv/">Fanart</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-fanart">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/script.grab.fanart">Yes</a></p></td>
 		<td><p>No</p></td>
@@ -567,63 +567,63 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Google Drive</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://www.google.com/drive/">Google Drive</a></p></td>
+		<td><p><a href="https://rclone.org/">3rd Party Add-on</p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/plugin.googledrive">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.emby.media/support/solutions/articles/44001162194-google-drive">License</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Hulu</p></td>
+		<td><p><a href="https://www.hulu.com/welcome">Hulu</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://koditips.com/install-hulu-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>IMVDb</p></td>
+		<td><p><a href="https://imvdb.com/">IMVDb</a></p></td>
 		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">3rd Party Plugin</a></p></td>
 		<td><p><a href="https://koditips.com/imvdb-kodi-internet-music-video-database/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Jupiter Broadcasting</p></td>
+		<td><p><a href="https://www.jupiterbroadcasting.com/">Jupiter Broadcasting</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:Jupiter_Broadcasting">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/18398-jupiter-broadcasting-channel/">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>LastFM</p></td>
+		<td><p><a href="https://www.last.fm/">LastFM</a></p></td>
 		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">3rd Party Plugin</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/service.scrobbler.lastfm">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>MusicBrainz</p></td>
+		<td><p><a href="https://musicbrainz.org/">MusicBrainz</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-musicbrainz">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.common.musicbrainz.org">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Netflix</p></td>
+		<td><p><a href="https://www.netflix.com/">Netflix</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://howtomediacenter.com/en/install-netflix-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>OMDB</p></td>
+		<td><p><a href="http://www.omdbapi.com/">OMDB</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-omdb">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>OpenSubtitles</p></td>
+		<td><p><a href="https://www.opensubtitles.org/en/search/subs">OpenSubtitles</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-opensubtitles">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/service.subtitles.opensubtitles">Yes</a></p></td>
 		<td><p>Yes</p></td>
@@ -637,98 +637,105 @@
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
-		<td><p>Pluto TV</p></td>
+		<td><p><a href="https://pluto.tv/">Pluto TV</a></p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a>, <a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/plugin.video.plutotv">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Samsung Live TV</p></td>
+		<td><p><a href="https://www.samsung.com/us/televisions-home-theater/tvs/tvplus/">Samsung Live TV</a></p></td>
 		<td><p><a href="https://github.com/cabernetwork/cabernet">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://www.wirelesshack.org/how-to-install-samsung-tv-plus-kodi-addon.html">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
-		<td><p>Spotify</p></td>
+		<td><p><href="https://www.spotify.com/">Spotify</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://github.com/kodi-community-addons/plugin.audio.spotify">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Stirr TV</p></td>
+		<td><p><a href="https://stirr.com/">Stirr TV</a></p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">3rd Party Add-on</a></p></td>
 		<td><p><a href="https://www.matthuisman.nz/2020/10/stirr-kodi-add-on.html">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Tidal</p></td>
+		<td><p><a href="https://tidal.com/">Tidal</a></p></td>
 		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:TIDAL">Yes</a></p></td>
 		<td><p>License</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>The PosterDB</p></td>
+		<td><p><a href="https://theposterdb.com/">The PosterDB</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>The TVDB</p></td>
+		<td><p><a href="https://thetvdb.com/">The TVDB</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tvdb">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvdb.com.python">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>TMDb</p></td>
+		<td><p><a href="https://www.themoviedb.org/?language=en-US">TMDb</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tmdb">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvshows.themoviedb.org.python">Yes</a></p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Trakt</p></td>
+		<td><p><a href="https://trakt.tv/">Trakt</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-trakt">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/script.trakt">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/96525-idiot-guide-to-trakt/">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>TuneIn</p></td>
+		<td><p><a href="https://tunein.com/">TuneIn</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://brainster-tech.com/2021/06/29/how-to-install-tunein-radio-on-kodi/">3rd Party Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>TVMaze</p></td>
+		<td><p><a href="https://www.tvmaze.com/">TVMaze</a></p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-tvmaze">Yes</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.tvmaze">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>YouTubeMetadata</p></td>
+		<td><p><a href="https://www.youtube.com/">YouTube</a></p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:YouTube">Yes</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+	<tr>
+		<td><p><a href="https://www.youtube.com/">YouTube Metadata</a></p></td>
 		<td><p><a href="https://github.com/ankenyr/jellyfin-youtube-metadata-plugin">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>VGMdb</p></td>
+		<td><p><a href="https://vgmdb.net/">VGMdb</a></p></td>
 		<td><p><a href="https://github.com/nielsvanvelzen/jellyfin-plugin-vgmdb">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Xumo</p></td>
+		<td><p><a href="https://www.xumo.tv/">Xumo</a></p></td>
 		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Add-on</a></p></td>
 		<td><p><a href="https://troypoint.com/xumo-tv-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
