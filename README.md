@@ -746,81 +746,81 @@
 		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td><p>Antennas Direct ClearStream TV&trade; Wireless</p></td>
-		<td><p>Yes</p></td>
+		<td><p>Antennas Direct ClearStream TV Wireless</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>AVerMedia AVerTV Volar Hybrid Q</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.avermedia.com/us/product-detail/H837">AVerMedia AVerTV Volar Hybrid Q</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>DVBLogic TVButler 100TC</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://dvblogic.com/en/">DVBLogic TVButler 100TC</a> (Out of Business)</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Hauppauge Digital TV for Xbox One</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.hauppauge.com/pages/products/data_xboxtv.html">Hauppauge Digital TV for Xbox One</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Hauppauge Freeview HD TV for Xbox One</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Hauppauge WinTV-dual HD</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.hauppauge.com/pages/webstore2/webstore_dualhd.html">Hauppauge WinTV-dual HD</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Hauppauge WinTV-quad HD</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://hauppauge.com/pages/products/data_quadhd.html">Hauppauge WinTV-quad HD</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Hauppauge WinTV-HVR-955Q</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.hauppauge.com/pages/products/data_hvr955q.html">Hauppauge WinTV-HVR-955Q</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Hauppauge WinTV-HVR-22XX</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.hauppauge.com/pages/products/data_hvr2255.html">Hauppauge WinTV-HVR-22XX</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Hauppauge WinTV-solo HD</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.hauppauge.com/pages/webstore2/webstore_solohd_euro.html">Hauppauge WinTV-solo HD</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>SiliconDust HDHomeRun</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.silicondust.com/">SiliconDust HDHomeRun</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/live-tv/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/PVR/Tuner_cards">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/225877427-supported-dvr-tuners-and-antennas/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160415-live-tv-setup">Yes</a></p></td>
 	</tr>
 </table>
 <br>
