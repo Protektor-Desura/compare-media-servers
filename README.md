@@ -59,8 +59,8 @@
 		<td><p>Camera Upload</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.reddit.com/r/PleX/comments/m7qabw/plex_camera_upload_no_longer_supported/">No</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001159382-camera-upload">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Collections</p></td>
@@ -135,8 +135,8 @@
 	<tr>
 		<td><p>Lyrics</p></td>
 		<td><p>No</p></td>
-		<td><p>3rdParty Plugin</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:CU_LRC_Lyrics">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/215238778-automatic-lyrics-from-lyricfind/">License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -150,106 +150,106 @@
 		<td><p>Mobile Media Optimizer</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/214079318-media-optimizer-overview/">License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Mobile Sync</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/201082477-quick-guide-to-mobile-sync/">License</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/22112-sync/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Movie Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/media/movies.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Naming_video_files/Movies">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/naming-and-organizing-your-movie-media-files/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001159102-movie-naming">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Multiple Users</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>License</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/users/adding-managing-users.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Profiles">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/203948776-managed-users/">License</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/blogs/entry/177-manage-your-home-with-emby-users/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Music Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/media/music.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Music_tagging">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/categories/your-media/naming-and-organizing-music-media/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001159113-music-naming">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Music Video Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>3rdParty Plugin</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.reddit.com/r/jellyfin/comments/lma4tz/music_videos/">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Music_videos">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/205568377-adding-local-artist-and-music-videos/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/89350-music-video-naming/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Offline Media<br>(Download & Play Offline)</p></td>
-		<td><p>Yes/Free</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/users/adding-managing-users.html">Yes/Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/201018507-download-media/">License</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/84314-download-media-on-devices-iphone-etc/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Parent Controls</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/users/adding-managing-users.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Parental_controls">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/parental-controls/">License</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160251-parental-controls">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>Per User Stream Limit</p></td>
+		<td><p>Per User Bandwidth Limit</p></td>
 		<td><p>Yes/Free</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/227715247-server-settings-bandwidth-and-transcoding-limits/">License</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/88203-set-bandwidth-limit-outside-network-only/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Photo Albums</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>License</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.reddit.com/r/jellyfin/comments/frh9i2/permission_feature_for_photo_albums/">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Pictures">Yes</a></p></td>
+		<td><p><a href="https://www.plex.tv/your-media/photos-videos/">License</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/24433-photo-albums-how-does-it-work/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Plug-in Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/plugins/index.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.tv/addons/">Yes</a></p></td>
+		<td><p><a href="https://www.plex.tv/blog/subtitles-and-sunsets-big-improvements-little-housekeeping/">No</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/forum/46-plugins/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Podcast Support</p></td>
-		<td><p><a href="https://github.com/akhilrex/podgrab">3rdParty Add-on</a></p></td>
-		<td><p>3rdParty Plugin</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://github.com/akhilrex/podgrab">3rd Party Add-on</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:Apple_iTunes_Podcasts">Yes</a></p></td>
+		<td><p><a href="https://www.plex.tv/music/podcasts/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/93142-how-does-the-podcast-plugin-work/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Recommend & Discover</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://support.plex.tv/articles/manage-recommendations/">Yes</a></p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>Remote Login Server</p></td>
 		<td><p><b>Never</b></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/connect.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Server Backup</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001159936-configuration-backup">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Server Stats</p></td>
@@ -274,21 +274,21 @@
 	</tr>
 	<tr>
 		<td><p>Smart Home/Voice Control</p></td>
-		<td><p>Yes/Home Assistant</p></td>
+		<td><p><a href="https://github.com/infinityofspace/jellyfin_alexa_skill">Alexa/Free</a>, <a href="https://github.com/koying/jellyfin_ha">Home Assistant</a></p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/115000320808-getting-started-with-alexa-voice-control/">Alexa/License</a>, <a href="https://github.com/maykar/plex_assistant">Google/Free</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160798-amazon-alexa">Alexa/License</a>, <a href="https://emby.media/hey-google-whats-your-coolest-new-app.html">Google/License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Theme Songs and Videos</p></td>
 		<td><p><a href="https://github.com/danieladov/jellyfin-plugin-themesongs">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes/Songsonly</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/201448016-how-do-i-add-theme-music-for-a-tv-show/">Yes/Songs only</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/1069-tv-theme-music-plugin/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TIDAL Music</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
