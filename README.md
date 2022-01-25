@@ -254,7 +254,7 @@
 	</tr>
 	<tr>
 		<td><p>Server Stats</p></td>
-		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-playbackreporting">Yes</a>, <a href="https://github.com/mregni/EmbyStat">Embystat</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-playbackreporting">Playback</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-reports">Reports</a>, <a href="https://github.com/mregni/EmbyStat">Embystat</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.plex.tv/articles/200871837-status-and-dashboard/">License</a>, <a href="https://tautulli.com/">Tautulli</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/80005-statistics-plugin/">Yes</a>, <a href="https://github.com/mregni/EmbyStat">EmbyStat</a></p></td>
