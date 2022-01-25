@@ -533,14 +533,14 @@
 	</tr>
 	<tr>
 		<td><p>Distro Live TV</p></td>
-		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
+		<td><p><a href="https://github.com/cabernetwork/cabernet">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
 		<td><p>Douban</p></td>
-		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">Yes</a></p></td>
+		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">3rd Party Plugin</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.douban.com">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/77916-the-douban-plugin-can-only-scrape-four-actors/">Yes</a></p></td>
@@ -582,7 +582,7 @@
 	</tr>
 	<tr>
 		<td><p>IMVDb</p></td>
-		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">Yes</a></p></td>
+		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">3rd Party Plugin</a></p></td>
 		<td><p><a href="https://koditips.com/imvdb-kodi-internet-music-video-database/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -596,7 +596,7 @@
 	</tr>
 	<tr>
 		<td><p>LastFM</p></td>
-		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">Yes</a></p></td>
+		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">3rd Party Plugin</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/service.scrobbler.lastfm">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -631,7 +631,7 @@
 	</tr>
 	<tr>
 		<td><p>Plex Live TV</p></td>
-		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
+		<td><p><a href="https://github.com/cabernetwork/cabernet">3rd Party Add-on/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>Yes</p></td>
 		<td><p>No</p></td>
@@ -645,7 +645,7 @@
 	</tr>
 	<tr>
 		<td><p>Samsung Live TV</p></td>
-		<td><p><a href="https://github.com/cabernetwork/cabernet">Cabernet/Free</a></p></td>
+		<td><p><a href="https://github.com/cabernetwork/cabernet">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://www.wirelesshack.org/how-to-install-samsung-tv-plus-kodi-addon.html">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -659,7 +659,7 @@
 	</tr>
 	<tr>
 		<td><p>Stirr TV</p></td>
-		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">3rd Party Add-on</a></p></td>
 		<td><p><a href="https://www.matthuisman.nz/2020/10/stirr-kodi-add-on.html">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -729,7 +729,7 @@
 	</tr>
 	<tr>
 		<td><p>Xumo</p></td>
-		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Add-on</a></p></td>
 		<td><p><a href="https://troypoint.com/xumo-tv-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
