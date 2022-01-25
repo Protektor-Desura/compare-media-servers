@@ -290,41 +290,41 @@
 		<td><p>TIDAL Music</p></td>
 		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://support.plex.tv/articles/adding-tidal-subscriptions-to-plex/">Yes</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
 		<td><p>Tonemapping CPU</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://support.plex.tv/articles/hdr-to-sdr-tone-mapping/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/55872-tone-mapping-in-transcoding-hdr-for-playback-on-sdr-screens/page/14/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Tonemapping GPU</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/administration/hardware-acceleration.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Video_playback">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/hdr-to-sdr-tone-mapping/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/55872-tone-mapping-in-transcoding-hdr-for-playback-on-sdr-screens/page/14/">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Trailers & Extras</p></td>
-		<td><p>Yes</p></td>
-		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/media/movies.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Naming_video_files/Movies">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/local-files-for-trailers-and-extras/">Yes</a></p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/media/movies.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TV Episode Support</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/docs/general/server/media/shows.html">Yes</a></p></td>
+		<td><p><a href="https://kodi.wiki/view/Naming_video_files/Episodes">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/naming-and-organizing-your-tv-show-files/">Yes</a></p></td>
+		<td><p><a href="https://support.emby.media/support/solutions/articles/44001159110-tv-naming">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TV Guide Data</p></td>
 		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a>, <a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://kodi.wiki/view/Add-on:TV_Guide">Yes</a></p></td>
 		<td><p><a href="https://www.plex.tv/tv/">License</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/forum/182-emby-guide-data/">License</a></p></td>
 	</tr>
@@ -332,7 +332,7 @@
 		<td><p>Virtual Reality</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://www.plex.tv/your-media/virtual-reality/">License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -358,120 +358,120 @@
 		<td><p>Android</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.mediaserver.smb&hl=en_US&gl=US">Yes</a></p></td>
+		<td><p><a href="https://emby.media/server-android.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Asusor</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</p></td>
+		<td><p><a href="https://emby.media/asustor-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Docker</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>FreeBSD</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/freebsd-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>FreeNAS</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/freenas-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Linux</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/linux-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>MacOS</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/mac-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Netgear ReadyNAS</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/netgear-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Nvidia Shield</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://play.google.com/store/apps/details?id=com.plexapp.mediaserver.smb&hl=en_US&gl=US">Yes</a></p></td>
+		<td><p><a href="https://emby.media/server-android.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Open Media Vault</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/open-media-vault-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>QNAP</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/qnap-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>RasberryPi</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://pimylifeup.com/raspberry-pi-plex-server/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/linux-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Synology</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/synology6-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TerraMaster</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/terramaster-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Thecus</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/thecus-server.html">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p>WDMy Cloud & My Passport</p></td>
+		<td><p>WD My Cloud & My Passport</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/western-digital-server-os3.html">Yes</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Windows</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>Yes</p></td>
-		<td><p>Yes</p></td>
+		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/windows-server.html">Yes</a></p></td>
 	</tr>
 </table>
 <br>
