@@ -226,7 +226,7 @@
 	</tr>
 	<tr>
 		<td><p>Podcast Support</p></td>
-		<td><p><a href="https://github.com/akhilrex/podgrab">3rd Party Add-on</a></p></td>
+		<td><p><a href="https://github.com/akhilrex/podgrab">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:Apple_iTunes_Podcasts">Yes</a></p></td>
 		<td><p><a href="https://www.plex.tv/music/podcasts/">Yes</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/93142-how-does-the-podcast-plugin-work/">Yes</a></p></td>
@@ -254,10 +254,10 @@
 	</tr>
 	<tr>
 		<td><p>Server Stats</p></td>
-		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-playbackreporting">Playback</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-reports">Reports</a>, <a href="https://github.com/mregni/EmbyStat">Embystat</a></p></td>
+		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-playbackreporting">Playback/Free</a>, <a href="https://github.com/jellyfin/jellyfin-plugin-reports">Reports/Free</a>, <a href="https://github.com/mregni/EmbyStat">Embystat/Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://support.plex.tv/articles/200871837-status-and-dashboard/">License</a>, <a href="https://tautulli.com/">Tautulli</a></p></td>
-		<td><p><a href="https://emby.media/community/index.php?/topic/80005-statistics-plugin/">Yes</a>, <a href="https://github.com/mregni/EmbyStat">EmbyStat</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/200871837-status-and-dashboard/">License</a>, <a href="https://tautulli.com/">Tautulli/Free</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/80005-statistics-plugin/">Yes</a>, <a href="https://github.com/mregni/EmbyStat">EmbyStat/Free</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Sharing Libraries</p></td>
@@ -275,23 +275,23 @@
 	</tr>
 	<tr>
 		<td><p>Smart Home/Voice Control</p></td>
-		<td><p><a href="https://github.com/infinityofspace/jellyfin_alexa_skill">Alexa/Free</a>, <a href="https://github.com/koying/jellyfin_ha">Home Assistant</a></p></td>
+		<td><p><a href="https://github.com/infinityofspace/jellyfin_alexa_skill">Alexa/Free</a>, <a href="https://github.com/koying/jellyfin_ha">Home Assistant/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.plex.tv/articles/115000320808-getting-started-with-alexa-voice-control/">Alexa/License</a>, <a href="https://github.com/maykar/plex_assistant">Google/Free</a></p></td>
 		<td><p><a href="https://support.emby.media/support/solutions/articles/44001160798-amazon-alexa">Alexa/License</a>, <a href="https://emby.media/hey-google-whats-your-coolest-new-app.html">Google/License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>Theme Songs and Videos</p></td>
-		<td><p><a href="https://github.com/danieladov/jellyfin-plugin-themesongs">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/danieladov/jellyfin-plugin-themesongs">3rdParty Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.plex.tv/articles/201448016-how-do-i-add-theme-music-for-a-tv-show/">Yes/Songs only</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/1069-tv-theme-music-plugin/">License</a></p></td>
 	</tr>
 	<tr>
-		<td><p>TIDAL Music</p></td>
-		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
+		<td><p><a href="https://tidal.com/">TIDAL Music</a><br>(Requires Subscription)</p></td>
+		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on/Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://support.plex.tv/articles/adding-tidal-subscriptions-to-plex/">Yes</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/adding-tidal-subscriptions-to-plex/">License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -324,7 +324,7 @@
 	</tr>
 	<tr>
 		<td><p>TV Guide Data</p></td>
-		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on</a>, <a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a></p></td>
+		<td><p>Yes/<a href="https://www.reddit.com/r/jellyfin/comments/rqxams/updated_guide_for_live_tv_guide/">3rdParty Add-on/Free</a>, <a href="https://github.com/fHDHR/fHDHR">fHDHR/Free</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:TV_Guide">Yes</a></p></td>
 		<td><p><a href="https://www.plex.tv/tv/">License</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/forum/182-emby-guide-data/">License</a></p></td>
@@ -486,14 +486,14 @@
 		<td><p><b>Emby</b></p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.amazon.com/music/prime">Amazon Prime Music</a></p></td>
+		<td><p><a href="https://www.amazon.com/music/prime">Amazon Prime Music</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://github.com/spacys/mediathek">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.amazon.com/Prime-Video/b?node=2676882011">Amazon Prime Video</a></p></td>
+		<td><p><a href="https://www.amazon.com/Prime-Video/b?node=2676882011">Amazon Prime Video</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://github.com/Sandmann79/xbmc">3rdParty Plugin</a></p></td>
 		<td><p>No</p></td>
@@ -520,13 +520,13 @@
 	</tr>
 	<tr>
 		<td><p><a href="https://www.deezer.com/us/">Deezer</a></p></td>
-		<td><p><a href="https://github.com/RandomNinjaAtk/docker-amd">3rd Party Add-on</a></p></td>
-		<td><p><a href="https://github.com/Valentin271/DeezerKodi">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://github.com/RandomNinjaAtk/docker-amd">3rd Party Add-on/Free</a></p></td>
+		<td><p><a href="https://github.com/Valentin271/DeezerKodi">3rd Party Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.disneyplus.com/">Disney+</a></p></td>
+		<td><p><a href="https://www.disneyplus.com/">Disney+</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
@@ -547,8 +547,8 @@
 		<td><p><a href="https://emby.media/community/index.php?/topic/77916-the-douban-plugin-can-only-scrape-four-actors/">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.dropbox.com/">Dropbox</a></p></td>
-		<td><p><a href="https://rclone.org/">3rd Party Add-on</a></p></td>
+		<td><p><a href="https://www.dropbox.com/">Dropbox</a><br>(Requires Subscription)</p></td>
+		<td><p><a href="https://rclone.org/">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:Dbmc_(Dropbox_add-on)">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/21863-dropbox-app-sync/">License</a></p></td>
@@ -569,15 +569,15 @@
 	</tr>
 	<tr>
 		<td><p><a href="https://www.google.com/drive/">Google Drive</a></p></td>
-		<td><p><a href="https://rclone.org/">3rd Party Add-on</p></td>
+		<td><p><a href="https://rclone.org/">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/plugin.googledrive">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.emby.media/support/solutions/articles/44001162194-google-drive">License</a></p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.hulu.com/welcome">Hulu</a></p></td>
+		<td><p><a href="https://www.hulu.com/welcome">Hulu</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://koditips.com/install-hulu-kodi-addon/">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://koditips.com/install-hulu-kodi-addon/">3rd Party Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
@@ -597,7 +597,7 @@
 	</tr>
 	<tr>
 		<td><p><a href="https://www.last.fm/">LastFM</a></p></td>
-		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://github.com/jesseward/jellyfin-plugin-lastfm">3rd Party Plugin/Free</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/service.scrobbler.lastfm">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -610,7 +610,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://www.netflix.com/">Netflix</a></p></td>
+		<td><p><a href="https://www.netflix.com/">Netflix</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://howtomediacenter.com/en/install-netflix-kodi-addon/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
@@ -666,10 +666,10 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p><a href="https://tidal.com/">Tidal</a></p></td>
-		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on</a></p></td>
+		<td><p><a href="https://tidal.com/">Tidal</a><br>(Requires Subscription)</p></td>
+		<td><p><a href="https://github.com/RandomNinjaAtk/docker-atd">3rd Party Add-on/Free</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:TIDAL">Yes</a></p></td>
-		<td><p>License</p></td>
+		<td><p><a href="https://support.plex.tv/articles/adding-tidal-subscriptions-to-plex/">License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -703,7 +703,7 @@
 	<tr>
 		<td><p><a href="https://tunein.com/">TuneIn</a></p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://brainster-tech.com/2021/06/29/how-to-install-tunein-radio-on-kodi/">3rd Party Plugin</p></td>
+		<td><p><a href="https://brainster-tech.com/2021/06/29/how-to-install-tunein-radio-on-kodi/">3rd Party Plugin/Free</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
@@ -723,7 +723,7 @@
 	</tr>
 	<tr>
 		<td><p><a href="https://www.youtube.com/">YouTube Metadata</a></p></td>
-		<td><p><a href="https://github.com/ankenyr/jellyfin-youtube-metadata-plugin">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://github.com/ankenyr/jellyfin-youtube-metadata-plugin">3rd Party Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -737,8 +737,8 @@
 	</tr>
 	<tr>
 		<td><p><a href="https://www.xumo.tv/">Xumo</a></p></td>
-		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Add-on</a></p></td>
-		<td><p><a href="https://troypoint.com/xumo-tv-kodi-addon/">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://github.com/fHDHR/fHDHR">3rdParty Add-on/Free</a></p></td>
+		<td><p><a href="https://troypoint.com/xumo-tv-kodi-addon/">3rd Party Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>
