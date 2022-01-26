@@ -100,9 +100,9 @@
 	</tr>
 	<tr>
 		<td><p>Group Watching</p></td>
-		<td><p><a href="https://jellyfin.org/posts/jellyfin-10-6-0/">Free/SyncPlay</a></p></td>
+		<td><p><a href="https://jellyfin.org/posts/jellyfin-10-6-0/">SyncPlay/Free</a></p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://support.plex.tv/articles/watch-together/">License/Watch Together</a></p></td>
+		<td><p><a href="https://support.plex.tv/articles/watch-together/">Watch Together/License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
