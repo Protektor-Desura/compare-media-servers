@@ -93,7 +93,7 @@
 		<td><p><a href="https://support.plex.tv/articles/115003944134-removing-commercials/">License</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://getchannels.com/get/">License</a></p></td>
-		
+	</tr>	
 	<tr>
 		<td><p>E-Book Support</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf>">Yes</a></p></td>
