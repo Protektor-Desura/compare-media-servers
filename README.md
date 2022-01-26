@@ -374,6 +374,14 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
+		<td><p>Tuner Sharing</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p><a href="https://getchannels.com/get/">Yes</a></p></td>
+	</tr>
+	<tr>
 		<td><p>TV Episode Support</p></td>
 		<td><p><a href="https://jellyfin.org/docs/general/server/media/shows.html">Yes</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Naming_video_files/Episodes">Yes</a></p></td>
@@ -389,13 +397,6 @@
 		<td><p><a href="https://emby.media/community/index.php?/forum/182-emby-guide-data/">License</a></p></td>
 		<td><p>Yes</p></td>
 	</tr>
-	<tr>
-		<td><p>Tuner Sharing</p></td>
-		<td><p>No</p></td>
-		<td><p>No</p></td>
-		<td><p>No</p></td>
-		<td><p>No</p></td>
-		<td><p><a href="https://getchannels.com/get/">Yes</a></p></td>
 	<tr>
 		<td><p>Virtual Reality</p></td>
 		<td><p>No</p></td>
