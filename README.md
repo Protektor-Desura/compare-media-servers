@@ -50,7 +50,7 @@
 		<td><p><a href="https://jellyfin.org/docs/general/clients/codec-support.html">Yes</a></p></td>
 		<td><p><a href="https://www.xda-developers.com/kodi-19-adds-support-for-av1-decoding-hdr10-dolby-vision-tvos-and-more/">Yes</a></p></td>
 		<td><p><a href="https://support.plex.tv/articles/203824396-what-media-formats-are-supported/">No</a></p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/90325-av1-support/">Yes</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@
 		<td><p><a href="https://github.com/jellyfin/jellyfin-plugin-bookshelf">Yes</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Audiobooks">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/85623-some-audiobook-stuff-again/">Yes</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
