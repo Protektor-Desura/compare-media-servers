@@ -70,7 +70,7 @@
 		<td><p>No</p></td>
 	</tr>
 	<tr>
-		<td><p>Camera Upload</p></td>
+		<td><p>Camera/Photo Upload</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.reddit.com/r/PleX/comments/m7qabw/plex_camera_upload_no_longer_supported/">No</a></p></td>
