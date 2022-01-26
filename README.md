@@ -16,7 +16,7 @@
 	<tr>
 		<td><p>License</p></td>
 		<td><p><a href="https://github.com/jellyfin/jellyfin/blob/master/LICENSE">GPL v2</a></p></td>
-		<td><p><a href="https://kodi.tv/article/please-respect-gpl-license/">GPL v2</a><br></p></td>
+		<td><p><br><a href="https://kodi.tv/article/please-respect-gpl-license/">GPL v2</a></p></td>
 		<td><p><a href="https://www.plex.tv/about/privacy-legal/plex-terms-of-service/">Full Commercial</a></p></td>
 		<td><p><a href="https://emby.media/license.html">Full Commercial</a></p></td>
 	</tr>
