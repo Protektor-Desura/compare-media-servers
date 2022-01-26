@@ -206,6 +206,14 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
+		<td><p>Multiple Plugin Repositories</p></td?
+		<td><p><a href="https://jellyfin.org/docs/general/server/plugins/index.html">Yes</a></p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	</tr>
+    	<tr>
 		<td><p>Multiple Users</p></td>
 		<td><p><a href="https://jellyfin.org/docs/general/server/users/adding-managing-users.html">Yes</a></p></td>
 		<td><p><a href="https://kodi.wiki/view/Profiles">Yes</a></p></td>
@@ -577,7 +585,7 @@
 	<tr>
 		<td><p><a href="https://www.amazon.com/music/prime">Amazon Prime Music</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://github.com/spacys/mediathek">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/spacys/mediathek">3rdParty Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -585,7 +593,7 @@
 	<tr>
 		<td><p><a href="https://www.amazon.com/Prime-Video/b?node=2676882011">Amazon Prime Video</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://github.com/Sandmann79/xbmc">3rdParty Plugin</a></p></td>
+		<td><p><a href="https://github.com/Sandmann79/xbmc">3rdParty Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -625,7 +633,7 @@
 	<tr>
 		<td><p><a href="https://www.disneyplus.com/">Disney+</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -633,14 +641,14 @@
 	<tr>
 		<td><p><a href="https://www.distro.tv/">Distro Live TV</a></p></td>
 		<td><p><a href="https://github.com/cabernetwork/cabernet">3rd Party Add-on/Free</a></p></td>
-		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin</p></td>
+		<td><p><a href="https://www.technadu.com/disney-plus-kodi-addon/223344/">3rd Party Plugin/Free</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
 		<td><p><a href="https://www.douban.com/">Douban</a></p></td>
-		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://github.com/Libitum/jellyfin-plugin-douban">3rd Party Plugin/Free</a></p></td>
 		<td><p><a href="https://kodi.tv/addons/matrix/metadata.douban.com">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://emby.media/community/index.php?/topic/77916-the-douban-plugin-can-only-scrape-four-actors/">Yes</a></p></td>
@@ -688,7 +696,7 @@
 	</tr>
 	<tr>
 		<td><p><a href="https://imvdb.com/">IMVDb</a></p></td>
-		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://github.com/crobibero/jellyfin-plugin-imvdb">3rd Party Plugin/Free</a></p></td>
 		<td><p><a href="https://koditips.com/imvdb-kodi-internet-music-video-database/">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
@@ -699,7 +707,7 @@
 		<td><p>No</p></td>
 		<td><p><a href="https://kodi.wiki/view/Add-on:Jupiter_Broadcasting">Yes</a></p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://emby.media/community/index.php?/topic/18398-jupiter-broadcasting-channel/">Yes</a></p></td>
+		<td><p><a href="https://emby.media/community/index.php?/topic/18398-jupiter-broadcasting-channel/">License</a></p></td>
 		<td><p>No</p></td>
 	</tr>
 	<tr>
@@ -721,7 +729,7 @@
 	<tr>
 		<td><p><a href="https://www.netflix.com/">Netflix</a><br>(Requires Subscription)</p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://howtomediacenter.com/en/install-netflix-kodi-addon/">3rd Party Plugin</a></p></td>
+		<td><p><a href="https://howtomediacenter.com/en/install-netflix-kodi-addon/">3rd Party Plugin/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
