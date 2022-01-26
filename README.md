@@ -211,7 +211,7 @@
 		<td><p><a href="https://kodi.wiki/view/Profiles">Yes</a></p></td>
 		<td><p><a href="https://support.plex.tv/articles/203948776-managed-users/">License</a></p></td>
 		<td><p><a href="https://emby.media/community/index.php?/blogs/entry/177-manage-your-home-with-emby-users/">Yes</a></p></td>
-		<td><p>Yes</p></td>
+		<td><p>License</p></td>
 	</tr>
 	<tr>
 		<td><p>Music Support</p></td>
