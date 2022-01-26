@@ -39,6 +39,13 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
+		<td><p>ATSC 3.0 Support<br>(4K HEVC Main 10 profile at Level 5.2 Main Tier,<br>HDR, Dolby AC-4, MPEG-H 3D Audio)</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+		<td><p>No</p></td>
+	<tr>
 		<td><p>AV1 Support</p></td>
 		<td><p><a href="https://jellyfin.org/docs/general/clients/codec-support.html">Yes</a></p></td>
 		<td><p><a href="https://www.xda-developers.com/kodi-19-adds-support-for-av1-decoding-hdr10-dolby-vision-tvos-and-more/">Yes</a></p></td>
