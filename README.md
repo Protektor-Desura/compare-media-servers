@@ -206,7 +206,7 @@
 		<td><p>Yes</p></td>
 	</tr>
 	<tr>
-		<td><p>Multiple Plugin Repositories</p></td?
+		<td><p>Multiple Plugin Repositories</p></td>
 		<td><p><a href="https://jellyfin.org/docs/general/server/plugins/index.html">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
