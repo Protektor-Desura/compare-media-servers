@@ -379,7 +379,7 @@
 		<td><p>No</p></td>
 		<td><p>No</p></td>
 		<td><p>No</p></td>
-		<td><p><a href="https://getchannels.com/get/">Yes</a></p></td>
+		<td><p><a href="https://getchannels.com/get/">License</a></p></td>
 	</tr>
 	<tr>
 		<td><p>TV Episode Support</p></td>
