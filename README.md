@@ -36,7 +36,7 @@
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
 		<td><p>Yes</p></td>
-		<td>No</td>
+		<td><p>Yes</p></td>
 	</tr>
 	<tr>
 		<td><p>AV1 Support</p></td>
