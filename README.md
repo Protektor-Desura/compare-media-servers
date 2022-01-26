@@ -767,7 +767,7 @@
 		<td><p>No</p></td>
 	</tr>		
 	<tr>
-		<td><p><href="https://www.spotify.com/">Spotify</a></p></td>
+		<td><p><a href="https://www.spotify.com/">Spotify</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://github.com/kodi-community-addons/plugin.audio.spotify">3rd Party Plugin</a></p></td>
 		<td><p>No</p></td>
