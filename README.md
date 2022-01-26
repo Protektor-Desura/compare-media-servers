@@ -95,7 +95,7 @@
 	</tr>
 	<tr>
 		<td><p>Commerical Skip</p></td>
-		<td><p>No</p></td>
+		<td><p><a href="https://github.com/Protektor-Desura/jellyfin-dvr-comskip">3rd Party Add-on/Free</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://support.plex.tv/articles/115003944134-removing-commercials/">License</a></p></td>
 		<td><p>No</p></td>
