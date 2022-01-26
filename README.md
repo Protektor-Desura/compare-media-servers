@@ -467,7 +467,7 @@
 		<td><p><a href="https://getchannels.com/dvr-server/">Yes</a></p></td>
 	</tr>
 	<tr>
-		<td><p><href="https://www.apple.com/macos/">MacOS</a></p></td>
+		<td><p><a href="https://www.apple.com/macos/">MacOS</a></p></td>
 		<td><p><a href="https://jellyfin.org/downloads/">Yes</a></p></td>
 		<td><p>No</p></td>
 		<td><p><a href="https://www.plex.tv/media-server-downloads/">Yes</a></p></td>
